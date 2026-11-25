@@ -1,0 +1,1001 @@
+locality,pincode,area_sqft,bedrooms,bathrooms,floor,property_age,furnishing_status,distance_to_metro_km,latitude,longitude,balcony,parking,property_type,lift_available,price_lakh
+Ballygunge,700019,1280,3,2,2nd,14,Furnished,1.2,22.535421,88.365214,2,Yes,Apartment,Yes,108.8
+Alipore,700052,1450,3,3,3rd,11,Unfurnished,2.4,22.52531,88.337512,2,Yes,Apartment,Yes,133.4
+Behala,700034,980,2,2,1st,17,Furnished,3.1,22.498231,88.305874,2,Yes,Apartment,Yes,70.56
+Jadavpur,700032,1105,3,2,4th,8,Unfurnished,1.8,22.4962,88.369145,3,Yes,Apartment,Yes,89.5
+Howrah (Shalimar),711103,1600,3,3,5th,12,Furnished,5.6,22.57742,88.32144,1,Yes,Apartment,Yes,108.8
+Tollygunge,700033,1320,3,2,6th,15,Unfurnished,1.4,22.48574,88.34721,1,Yes,Apartment,Yes,104.28
+Baranagar,700090,1040,2,2,2nd,16,Unfurnished,3.7,22.6421,88.37751,1,No,Independent House,Yes,78.0
+Salt Lake,700064,1500,3,3,7th,7,Furnished,0.8,22.58621,88.42651,2,Yes,Apartment,Yes,168.0
+New Town,700156,1425,3,2,8th,6,Unfurnished,2.1,22.58041,88.46253,2,Yes,Apartment,No,139.65
+Rajarhat,700135,1250,2,2,3rd,10,Furnished,4.0,22.61152,88.45023,1,Yes,Apartment,Yes,95.0
+Park Street,700016,1180,2,2,2nd,13,Unfurnished,1.1,22.55347,88.35014,2,Yes,Independent House,No,159.3
+Lake Town,700089,1025,2,2,3rd,16,Furnished,2.9,22.60671,88.40031,2,Yes,Apartment,Yes,84.05
+Ballygunge,700020,1380,3,3,4th,9,Unfurnished,1.5,22.5236,88.35718,2,Yes,Apartment,Yes,129.72
+Behala,700060,960,2,1,1st,19,Furnished,3.6,22.49014,88.30631,2,Yes,Independent House,Yes,66.24
+Garia,700047,1410,3,2,5th,8,Unfurnished,2.2,22.46421,88.39324,3,Yes,Apartment,Yes,108.57
+Dumdum,700055,1140,2,2,6th,12,Furnished,1.3,22.63911,88.42036,1,Yes,Independent House,No,94.62
+Esplanade,700069,980,1,1,1st,21,Unfurnished,0.9,22.56874,88.34789,0,Yes,Apartment,Yes,147.0
+Entally,700046,1090,2,2,4th,15,Furnished,1.7,22.55529,88.37198,1,Yes,Apartment,Yes,88.29
+Shyambazar,700004,1035,2,2,3rd,17,Unfurnished,2.8,22.60451,88.37125,2,No,Apartment,Yes,78.66
+Howrah (Shalimar),711105,1700,3,3,7th,10,Furnished,6.4,22.58011,88.320415,2,Yes,Apartment,Yes,119.0
+Tollygunge,700033,1440,3,2,5th,13,Unfurnished,1.6,22.48472,88.34817,2,Yes,Apartment,Yes,118.08
+Rajarhat,700135,1210,2,2,4th,9,Furnished,3.9,22.61483,88.44829,1,No,Apartment,Yes,90.75
+New Town,700156,1570,3,3,10th,5,Furnished,2.4,22.57692,88.45978,3,Yes,Apartment,No,164.85
+Alipore,700052,1120,2,2,3rd,14,Unfurnished,2.3,22.52731,88.33615,1,Yes,Apartment,Yes,99.68
+Salt Lake,700106,1490,3,3,9th,6,Furnished,0.5,22.58594,88.42327,2,Yes,Apartment,Yes,171.35
+Park Street,700016,1255,3,2,2nd,12,Unfurnished,1.0,22.55217,88.35199,2,No,Apartment,No,163.15
+Baranagar,700108,990,2,1,1st,18,Furnished,3.5,22.64881,88.37412,2,Yes,Apartment,Yes,70.29
+Garia,700084,1310,3,2,6th,11,Unfurnished,2.1,22.46431,88.39571,2,Yes,Apartment,Yes,100.87
+Jadavpur,700032,1150,2,2,3rd,16,Furnished,1.9,22.49594,88.36978,1,Yes,Independent House,Yes,94.3
+Behala,700063,1005,2,1,2nd,20,Unfurnished,3.8,22.49361,88.30341,1,Yes,Apartment,No,68.34
+Howrah (Shalimar),711114,1520,3,3,6th,9,Furnished,5.7,22.57814,88.31899,4,No,Apartment,Yes,109.44
+Entally,700020,1085,2,2,4th,17,Unfurnished,1.6,22.55321,88.37281,1,Yes,Apartment,Yes,90.96
+Lake Town,700089,1180,2,2,5th,13,Furnished,2.5,22.60729,88.40183,1,Yes,Apartment,Yes,100.3
+Rajarhat,700135,1460,3,3,7th,8,Unfurnished,4.3,22.61019,88.45226,2,Yes,Apartment,No,141.62
+Salt Lake,700064,1350,3,2,4th,10,Furnished,0.9,22.58931,88.42624,3,Yes,Apartment,Yes,148.5
+Dumdum,700056,950,2,1,2nd,21,Unfurnished,2.6,22.63871,88.41915,2,No,Apartment,Yes,65.55
+Behala,700008,1420,3,2,5th,14,Furnished,3.3,22.48847,88.31471,2,Yes,Apartment,Yes,110.76
+Alipore,700052,1340,3,2,3rd,12,Unfurnished,2.0,22.52849,88.33821,2,Yes,Independent House,Yes,120.6
+Shyambazar,700004,1075,2,2,2nd,15,Furnished,2.4,22.60469,88.37274,1,No,Apartment,Yes,86.0
+New Town,700156,1650,3,3,10th,5,Unfurnished,2.3,22.58274,88.46131,3,No,Apartment,Yes,178.2
+Tollygunge,700033,1380,3,2,4th,11,Furnished,1.8,22.48612,88.34918,3,Yes,Independent House,Yes,114.54
+Ballygunge,700020,1260,3,2,3rd,13,Unfurnished,1.3,22.5248,88.35524,3,Yes,Apartment,Yes,115.92
+Garia,700047,1480,3,3,6th,9,Furnished,2.2,22.46287,88.39369,2,Yes,Apartment,Yes,112.48
+Howrah (Shalimar),711102,1550,3,3,6th,8,Unfurnished,6.2,22.57711,88.32012,2,Yes,Apartment,Yes,114.7
+Baranagar,700035,1020,2,2,2nd,17,Furnished,3.4,22.64378,88.37811,1,Yes,Apartment,No,79.56
+Salt Lake,700106,1400,3,3,8th,6,Unfurnished,0.7,22.58644,88.42587,2,Yes,Apartment,Yes,156.8
+Park Street,700016,1310,3,2,3rd,12,Furnished,1.2,22.55318,88.35112,3,No,Apartment,Yes,175.54
+Jadavpur,700032,1080,2,2,2nd,15,Unfurnished,1.7,22.49634,88.37041,1,No,Apartment,Yes,87.48
+Lake Town,700089,1240,2,2,4th,14,Furnished,2.9,22.60792,88.40263,2,No,Apartment,Yes,104.16
+Rajarhat,700135,1500,3,3,7th,7,Unfurnished,4.5,22.61214,88.45341,2,No,Apartment,Yes,144.0
+Garia,700047,928,2,2,3,19,Unfurnished,1.8,22.4651,88.3904,1,Yes,Apartment,No,57.14
+Howrah (Shalimar),711102,1045,3,2,4,14,Furnished,3.2,22.5808,88.3127,3,Yes,Apartment,Yes,61.84
+Tollygunge,700033,1189,3,2,6,11,Unfurnished,0.8,22.5014,88.3503,1,Yes,Apartment,Yes,76.56
+Baranagar,700035,856,2,1,2,22,Furnished,2.9,22.6551,88.3659,1,No,Apartment,No,49.16
+Rajarhat,700135,1326,3,2,8,8,Furnished,2.1,22.5951,88.4828,2,Yes,Independent House,Yes,82.29
+Ballygunge,700020,1432,3,3,10,7,Furnished,1.0,22.5257,88.3651,2,Yes,Apartment,Yes,97.59
+Jadavpur,700032,1014,2,2,3,16,Unfurnished,1.4,22.4952,88.3713,1,No,Independent House,Yes,60.49
+Lake Town,700089,923,2,2,5,13,Furnished,0.9,22.6064,88.4055,2,No,Independent House,Yes,56.42
+Esplanade,700069,764,1,1,4,18,Unfurnished,0.5,22.568,88.351,0,Yes,Independent House,Yes,53.53
+Baranagar,700090,1111,3,2,7,10,Furnished,2.4,22.6621,88.3694,3,Yes,Apartment,Yes,65.94
+Behala,700060,882,2,2,2,17,Unfurnished,2.0,22.4882,88.3022,0,Yes,Apartment,No,50.96
+Salt Lake (Bidhannagar),700064,1395,3,3,9,9,Furnished,1.2,22.5869,88.4173,2,Yes,Apartment,Yes,91.17
+New Town,700156,1212,3,2,6,8,Unfurnished,2.3,22.5823,88.4892,2,No,Apartment,Yes,76.71
+Shyambazar,700004,976,2,1,3,20,Unfurnished,0.7,22.6,88.373,2,Yes,Apartment,Yes,57.44
+Tollygunge,700033,1348,3,3,11,6,Furnished,1.0,22.4999,88.3508,3,Yes,Apartment,No,90.06
+Dumdum,700055,866,2,2,4,15,Furnished,1.3,22.6317,88.4222,2,No,Independent House,Yes,52.13
+Alipore,700052,1522,4,3,12,5,Furnished,1.5,22.5321,88.3304,3,Yes,Independent House,Yes,109.48
+Garia,700084,1078,2,2,5,12,Unfurnished,1.7,22.461,88.395,1,No,Independent House,Yes,64.63
+Ballygunge,700019,987,2,2,6,14,Furnished,0.9,22.5201,88.3655,2,No,Apartment,Yes,65.61
+Howrah (Shalimar),711103,1155,3,2,7,10,Unfurnished,3.6,22.5798,88.3112,2,Yes,Apartment,No,66.27
+Entally,700046,799,1,1,3,21,Unfurnished,1.1,22.5411,88.3752,0,No,Apartment,Yes,51.79
+Rajarhat,700135,1282,3,2,9,7,Furnished,2.0,22.598,88.4701,1,Yes,Apartment,Yes,79.4
+Jadavpur,700032,917,2,2,4,16,Unfurnished,1.6,22.4939,88.3708,1,No,Apartment,Yes,55.28
+Behala,700034,1211,3,2,5,13,Furnished,2.2,22.49,88.315,3,No,Apartment,No,70.09
+Salt Lake (Bidhannagar),700106,1444,3,3,10,6,Furnished,1.0,22.5933,88.4089,2,Yes,Apartment,Yes,96.89
+Lake Town,700089,836,2,1,5,18,Unfurnished,0.7,22.6077,88.4041,2,Yes,Apartment,Yes,49.82
+Esplanade,700069,715,1,1,4,15,Unfurnished,0.6,22.5692,88.3501,0,No,Apartment,Yes,50.67
+New Town,700156,1386,3,3,12,5,Furnished,2.1,22.585,88.4875,2,Yes,Apartment,Yes,91.48
+Shyambazar,700004,902,2,1,2,17,Unfurnished,0.5,22.6066,88.3712,2,No,Apartment,No,53.45
+Park Street,700016,1185,3,3,9,8,Furnished,0.8,22.5534,88.3512,2,No,Apartment,Yes,87.7
+Alipore,700052,975,2,2,4,16,Unfurnished,1.4,22.5305,88.3267,1,No,Apartment,Yes,62.17
+Ballygunge,700020,1327,3,3,11,6,Furnished,1.1,22.5234,88.3643,2,Yes,Apartment,Yes,90.34
+Howrah (Shalimar),711105,1089,3,2,6,11,Unfurnished,3.9,22.5853,88.3099,2,No,Apartment,No,61.08
+Garia,700047,899,2,1,3,19,Unfurnished,1.9,22.4655,88.3922,1,Yes,Apartment,Yes,52.98
+Baranagar,700108,1245,3,2,8,9,Furnished,2.6,22.6677,88.3688,1,No,Apartment,Yes,74.84
+Tollygunge,700033,1128,3,2,7,12,Unfurnished,1.2,22.5003,88.3492,3,Yes,Apartment,No,73.21
+Jadavpur,700032,1007,2,2,5,14,Furnished,1.5,22.4947,88.3721,1,Yes,Apartment,Yes,59.6
+Rajarhat,700135,1462,3,3,13,4,Furnished,2.3,22.5946,88.474,2,No,Apartment,No,98.23
+Behala,700061,1042,2,2,4,15,Unfurnished,2.5,22.4868,88.3032,2,Yes,Apartment,Yes,60.51
+Dumdum,700056,879,2,1,2,17,Unfurnished,1.0,22.6299,88.4234,1,Yes,Apartment,No,52.54
+Esplanade,700069,772,1,1,3,20,Unfurnished,0.6,22.5684,88.3529,1,Yes,Apartment,Yes,54.3
+Salt Lake (Bidhannagar),700064,1359,3,3,11,7,Furnished,1.3,22.5872,88.4161,2,Yes,Apartment,Yes,90.49
+Park Street,700016,1420,3,3,12,4,Furnished,0.7,22.553,88.3507,2,Yes,Apartment,Yes,106.78
+New Town,700156,1191,3,2,6,9,Unfurnished,2.4,22.5831,88.4899,2,Yes,Apartment,Yes,75.46
+Lake Town,700089,811,2,1,4,18,Furnished,1.1,22.606,88.4058,0,Yes,Independent House,No,48.88
+Shyambazar,700004,924,2,2,5,13,Furnished,0.5,22.6031,88.3724,0,Yes,Apartment,Yes,55.15
+Baranagar,700035,1397,3,3,10,8,Unfurnished,2.2,22.6544,88.3672,1,Yes,Independent House,Yes,86.22
+Alipore,700052,1548,4,3,14,3,Furnished,1.3,22.5313,88.3292,3,Yes,Independent House,Yes,112.23
+Garia,700084,1025,2,2,4,15,Unfurnished,2.1,22.4608,88.3944,1,No,Apartment,Yes,60.0
+Rajarhat,700135,1218,3,2,7,10,Furnished,2.4,22.5971,88.4729,2,No,Apartment,Yes,76.66
+Ballygunge,700019,1384,3,3,11,6,Furnished,1.2,22.521,88.3661,2,Yes,Apartment,Yes,94.62
+Behala,700063,912,2,2,3,14,Unfurnished,2.3,22.486,88.3028,2,Yes,Independent House,Yes,52.82
+Dumdum,700055,1034,2,2,5,11,Furnished,1.4,22.631,88.4203,1,No,Apartment,No,62.11
+Garia,700047,876,2,1,2,17,Unfurnished,1.8,22.464,88.3915,2,No,Apartment,Yes,51.79
+Rajarhat,700135,1472,3,3,13,5,Furnished,2.0,22.5964,88.4738,2,Yes,Apartment,Yes,98.71
+Howrah (Shalimar),711105,1195,3,2,7,10,Unfurnished,3.5,22.5839,88.3107,2,Yes,Apartment,Yes,68.29
+Alipore,700052,1289,3,3,9,8,Furnished,1.5,22.5322,88.3301,2,No,Apartment,Yes,91.92
+Entally,700046,754,1,1,3,19,Unfurnished,1.2,22.54,88.3761,0,No,Independent House,Yes,48.64
+Esplanade,700069,798,1,1,4,15,Unfurnished,0.7,22.569,88.3515,1,No,Apartment,Yes,56.25
+Tollygunge,700033,1189,3,2,7,13,Furnished,1.3,22.499,88.3488,1,Yes,Independent House,Yes,77.49
+Lake Town,700089,902,2,2,5,14,Furnished,1.0,22.6068,88.406,1,No,Apartment,Yes,54.91
+Baranagar,700035,1128,3,2,6,12,Unfurnished,2.5,22.6552,88.368,2,Yes,Apartment,Yes,66.01
+New Town,700156,1248,3,2,8,9,Furnished,2.2,22.5851,88.488,2,No,Apartment,Yes,79.25
+Jadavpur,700032,978,2,2,4,16,Unfurnished,1.6,22.4935,88.372,0,No,Independent House,Yes,58.39
+Salt Lake (Bidhannagar),700064,1397,3,3,11,7,Furnished,1.1,22.587,88.417,2,No,Apartment,Yes,93.5
+Shyambazar,700004,934,2,1,3,18,Unfurnished,0.6,22.6039,88.3733,1,No,Apartment,Yes,55.7
+Park Street,700016,1316,3,3,10,5,Furnished,0.8,22.554,88.3514,2,No,Apartment,Yes,98.46
+Behala,700060,1241,3,2,7,10,Unfurnished,2.4,22.4875,88.3035,2,Yes,Apartment,Yes,72.42
+Howrah (Shalimar),711114,1083,3,2,6,11,Unfurnished,3.7,22.5827,88.3119,3,Yes,Apartment,Yes,61.56
+Baranagar,700090,937,2,2,3,15,Furnished,2.7,22.661,88.369,1,No,Apartment,Yes,55.66
+Ballygunge,700020,1426,3,3,12,4,Furnished,0.9,22.523,88.3642,2,Yes,Apartment,Yes,98.12
+Garia,700084,1028,2,2,4,13,Unfurnished,1.9,22.4602,88.3942,1,Yes,Apartment,No,60.97
+Dumdum,700056,865,2,1,3,17,Unfurnished,1.2,22.63,88.424,1,Yes,Apartment,Yes,51.99
+New Town,700156,1369,3,3,11,5,Furnished,2.3,22.5843,88.4873,3,Yes,Independent House,Yes,89.9
+Esplanade,700069,733,1,1,4,16,Unfurnished,0.6,22.5681,88.3512,1,Yes,Apartment,Yes,52.15
+Shyambazar,700004,987,2,2,5,13,Furnished,0.7,22.6025,88.3715,1,Yes,Independent House,Yes,59.12
+Entally,700020,811,1,1,2,20,Unfurnished,1.3,22.539,88.375,1,Yes,Independent House,No,52.16
+Tollygunge,700033,1404,3,3,12,6,Furnished,1.1,22.5006,88.3499,1,No,Apartment,No,93.93
+Alipore,700052,1582,4,3,14,3,Furnished,1.4,22.5315,88.3285,3,Yes,Independent House,Yes,114.5
+Rajarhat,700135,1202,3,2,8,10,Unfurnished,2.2,22.5976,88.4752,2,Yes,Apartment,Yes,75.45
+Salt Lake (Bidhannagar),700106,1518,3,3,12,4,Furnished,1.0,22.5949,88.4095,2,No,Apartment,Yes,102.63
+Park Street,700016,1198,3,3,9,7,Furnished,0.7,22.5543,88.3509,1,No,Apartment,Yes,88.49
+Baranagar,700108,1274,3,2,7,11,Unfurnished,2.5,22.6684,88.3697,3,Yes,Apartment,Yes,76.89
+Lake Town,700089,843,2,1,4,18,Unfurnished,1.2,22.6075,88.4051,1,Yes,Apartment,Yes,50.72
+Jadavpur,700032,1042,2,2,5,13,Furnished,1.5,22.494,88.3719,0,Yes,Apartment,Yes,62.09
+Behala,700008,1191,3,2,6,12,Unfurnished,2.7,22.485,88.3007,2,Yes,Independent House,No,69.94
+Howrah (Shalimar),711102,1117,3,2,7,9,Unfurnished,3.4,22.5802,88.3124,2,Yes,Apartment,Yes,64.22
+Garia,700047,927,2,2,3,15,Unfurnished,1.8,22.4632,88.392,2,Yes,Apartment,No,54.81
+Dumdum,700055,1280,3,3,7,9,Furnished,1.0,22.6304,88.4231,3,Yes,Independent House,Yes,78.08
+Esplanade,700069,788,1,1,3,17,Unfurnished,0.5,22.5694,88.3518,2,Yes,Apartment,Yes,55.78
+Shyambazar,700004,952,2,1,4,14,Unfurnished,0.6,22.6047,88.3722,1,No,Apartment,Yes,56.82
+Rajarhat,700135,1383,3,3,10,7,Furnished,2.0,22.5989,88.4745,2,Yes,Independent House,Yes,88.75
+Ballygunge,700020,1306,3,3,11,6,Furnished,1.0,22.5241,88.3648,1,Yes,Apartment,No,89.07
+New Town,700156,1264,3,2,7,10,Unfurnished,2.4,22.5841,88.4881,2,Yes,Apartment,Yes,79.76
+Baranagar,700090,1014,2,2,4,15,Furnished,2.3,22.6609,88.3684,1,No,Apartment,No,60.03
+Tollygunge,700033,1344,3,3,12,5,Furnished,1.2,22.5,88.349,2,Yes,Independent House,Yes,90.15
+Alipore,700052,1431,3,3,10,8,Furnished,1.3,22.5311,88.3277,2,Yes,Apartment,Yes,102.44
+Salt Lake (Bidhannagar),700064,1475,3,3,12,4,Furnished,1.1,22.5881,88.4175,2,Yes,Apartment,Yes,99.25
+Howrah (Shalimar),711103,1182,3,2,6,10,Unfurnished,3.6,22.5816,88.3111,3,Yes,Apartment,Yes,67.48
+Jadavpur,700032,936,2,2,3,16,Unfurnished,1.4,22.4932,88.3714,1,No,Apartment,No,56.06
+Baranagar,700108,1244,3,2,7,10,Furnished,2.4,22.6671,88.3682,2,No,Apartment,Yes,75.49
+Behala,700061,916,2,2,3,16,Unfurnished,2.6,22.4871,88.3029,1,No,Apartment,Yes,53.37
+Ballygunge,700019,1398,3,3,12,5,Furnished,1.2,22.5225,88.3649,1,No,Independent House,Yes,96.05
+Dumdum,700056,1087,2,2,6,12,Unfurnished,1.3,22.629,88.4233,1,Yes,Apartment,Yes,66.14
+Esplanade,700069,811,1,1,3,17,Unfurnished,0.6,22.569,88.3514,0,No,Apartment,Yes,57.46
+Garia,700084,1035,2,2,4,13,Unfurnished,1.9,22.4608,88.3951,2,Yes,Apartment,Yes,61.43
+Howrah (Shalimar),711114,1126,3,2,5,12,Unfurnished,3.8,22.5829,88.3114,2,Yes,Apartment,Yes,64.33
+Jadavpur,700032,1016,2,2,4,15,Furnished,1.5,22.4941,88.3718,2,No,Apartment,Yes,60.78
+Lake Town,700089,855,2,1,4,19,Unfurnished,1.0,22.6061,88.4059,1,Yes,Apartment,Yes,51.77
+New Town,700156,1426,3,3,12,6,Furnished,2.3,22.585,88.4879,1,No,Apartment,Yes,94.25
+Rajarhat,700135,1184,3,2,8,10,Unfurnished,2.1,22.597,88.4751,2,Yes,Apartment,Yes,74.59
+Park Street,700016,1359,3,3,10,5,Furnished,0.7,22.5548,88.351,2,Yes,Apartment,Yes,101.26
+Salt Lake (Bidhannagar),700064,1483,3,3,12,4,Furnished,1.2,22.5875,88.4173,4,Yes,Apartment,No,99.94
+Shyambazar,700004,983,2,2,5,12,Unfurnished,0.6,22.6033,88.3728,1,Yes,Apartment,Yes,58.76
+Tollygunge,700033,1317,3,3,11,6,Furnished,1.0,22.4994,88.3502,3,Yes,Independent House,Yes,87.56
+Baranagar,700090,1004,2,2,4,14,Furnished,2.3,22.6618,88.3688,1,Yes,Apartment,Yes,59.61
+Behala,700060,1279,3,2,7,11,Unfurnished,2.5,22.4881,88.3044,3,Yes,Independent House,Yes,74.87
+Ballygunge,700020,1411,3,3,12,5,Furnished,1.1,22.5239,88.3651,2,No,Apartment,Yes,96.78
+Howrah (Shalimar),711103,1211,3,2,7,9,Unfurnished,3.4,22.5805,88.3109,2,Yes,Apartment,Yes,69.41
+Dumdum,700055,1324,3,3,8,8,Furnished,1.2,22.6311,88.4218,2,Yes,Independent House,Yes,81.21
+Garia,700047,942,2,2,3,16,Unfurnished,1.9,22.4635,88.3917,1,No,Apartment,Yes,55.38
+Esplanade,700069,766,1,1,3,18,Unfurnished,0.7,22.5684,88.3519,0,No,Apartment,Yes,53.81
+Jadavpur,700032,1093,2,2,5,12,Furnished,1.6,22.4937,88.3722,1,Yes,Apartment,Yes,65.16
+Lake Town,700089,827,2,1,4,17,Unfurnished,0.9,22.6073,88.4052,0,Yes,Apartment,Yes,49.62
+Rajarhat,700135,1435,3,3,11,6,Furnished,2.0,22.5982,88.4733,1,Yes,Apartment,Yes,91.04
+Shyambazar,700004,916,2,1,3,16,Unfurnished,0.5,22.6028,88.371,1,No,Apartment,Yes,54.38
+Salt Lake (Bidhannagar),700106,1544,3,3,13,3,Furnished,1.1,22.5944,88.4085,3,No,Apartment,Yes,104.83
+Park Street,700016,1235,3,3,9,7,Furnished,0.8,22.5542,88.3508,2,Yes,Apartment,Yes,91.39
+Baranagar,700035,1168,3,2,6,11,Unfurnished,2.6,22.6568,88.3684,2,Yes,Apartment,Yes,70.26
+Behala,700034,1216,3,2,5,13,Furnished,2.3,22.4892,88.3148,2,Yes,Apartment,Yes,71.22
+Ballygunge,700019,1267,3,3,10,8,Furnished,1.0,22.5215,88.366,3,Yes,Apartment,Yes,86.53
+Dumdum,700055,945,2,2,4,16,Unfurnished,1.1,22.6307,88.4225,1,Yes,Apartment,Yes,56.79
+Garia,700084,1105,2,2,4,12,Unfurnished,1.8,22.46,88.3949,1,Yes,Apartment,Yes,65.88
+Howrah (Shalimar),711102,1233,3,2,8,8,Unfurnished,3.5,22.5814,88.3125,3,Yes,Apartment,No,70.96
+Jadavpur,700032,967,2,2,3,17,Furnished,1.5,22.4944,88.3725,1,Yes,Apartment,Yes,57.41
+Esplanade,700069,741,1,1,3,19,Unfurnished,0.6,22.5687,88.3517,1,Yes,Apartment,Yes,52.11
+Lake Town,700089,1007,2,2,5,13,Furnished,1.0,22.6064,88.4054,1,Yes,Independent House,Yes,61.64
+Rajarhat,700135,1394,3,3,10,7,Furnished,2.1,22.5975,88.4742,1,No,Apartment,Yes,89.56
+Salt Lake (Bidhannagar),700064,1338,3,3,11,8,Furnished,1.0,22.5873,88.4174,1,Yes,Apartment,Yes,88.38
+Tollygunge,700033,1295,3,3,11,7,Furnished,1.1,22.5001,88.3495,3,Yes,Apartment,Yes,86.23
+Baranagar,700108,1222,3,2,7,10,Unfurnished,2.5,22.6675,88.368,3,No,Independent House,No,74.03
+Behala,700008,1183,3,2,6,12,Unfurnished,2.8,22.4854,88.2998,2,Yes,Apartment,Yes,68.17
+Ballygunge,700020,1457,3,3,13,4,Furnished,1.2,22.5243,88.3641,2,Yes,Apartment,Yes,100.37
+Dumdum,700055,1021,2,2,5,14,Unfurnished,1.3,22.6302,88.423,2,Yes,Apartment,Yes,61.96
+Garia,700047,986,2,2,3,16,Unfurnished,1.7,22.4647,88.3905,0,No,Apartment,Yes,58.35
+Howrah (Shalimar),711105,1178,3,2,6,10,Unfurnished,3.6,22.5841,88.3096,2,Yes,Apartment,No,67.26
+Shyambazar,700004,943,2,1,3,14,Unfurnished,0.7,22.604,88.3721,2,No,Apartment,Yes,56.21
+Park Street,700016,1489,3,3,14,3,Furnished,0.9,22.5531,88.3513,2,Yes,Apartment,Yes,112.06
+New Town,700156,1185,3,2,7,9,Unfurnished,2.4,22.5838,88.4885,2,Yes,Apartment,Yes,74.83
+Salt Lake (Bidhannagar),700106,1523,3,3,12,3,Furnished,1.0,22.5948,88.408,2,Yes,Apartment,Yes,103.13
+Baranagar,700108,1253,3,2,7,9,Furnished,2.4,22.6672,88.3681,2,Yes,Apartment,Yes,76.1
+Behala,700063,1174,2,2,5,14,Unfurnished,2.7,22.4891,88.3052,2,Yes,Independent House,Yes,68.6
+Ballygunge,700019,1385,3,3,12,6,Furnished,1.2,22.5226,88.3648,2,Yes,Apartment,No,94.86
+Dumdum,700056,1103,2,2,6,12,Unfurnished,1.3,22.6291,88.4234,2,Yes,Apartment,Yes,67.35
+Esplanade,700069,812,1,1,3,17,Unfurnished,0.6,22.5691,88.3513,0,No,Apartment,Yes,57.6
+Garia,700084,1040,2,2,4,13,Unfurnished,1.9,22.461,88.395,1,Yes,Independent House,Yes,61.88
+Howrah (Shalimar),711114,1130,3,2,5,11,Unfurnished,3.8,22.583,88.3115,2,Yes,Apartment,Yes,64.7
+Jadavpur,700032,1018,2,2,4,15,Furnished,1.5,22.494,88.3719,0,Yes,Independent House,Yes,60.9
+Lake Town,700089,860,2,1,4,19,Unfurnished,1.0,22.6063,88.406,1,Yes,Apartment,Yes,52.12
+New Town,700156,1430,3,3,12,6,Furnished,2.3,22.5851,88.4878,2,Yes,Apartment,Yes,94.62
+Rajarhat,700135,1188,3,2,8,10,Unfurnished,2.1,22.5971,88.475,3,Yes,Apartment,Yes,74.9
+Park Street,700016,1362,3,3,10,5,Furnished,0.7,22.5549,88.3509,1,Yes,Apartment,No,101.78
+Salt Lake (Bidhannagar),700064,1485,3,3,12,4,Furnished,1.2,22.5876,88.4172,2,Yes,Apartment,Yes,100.25
+Shyambazar,700004,985,2,2,5,12,Unfurnished,0.6,22.6034,88.3729,1,Yes,Independent House,Yes,58.96
+Tollygunge,700033,1320,3,3,11,6,Furnished,1.0,22.4995,88.3503,2,No,Apartment,Yes,87.91
+Baranagar,700090,1007,2,2,4,14,Furnished,2.3,22.6619,88.3687,2,No,Independent House,Yes,59.79
+Behala,700060,1282,3,2,7,11,Unfurnished,2.5,22.4882,88.3045,3,Yes,Apartment,Yes,75.05
+Ballygunge,700020,1415,3,3,12,5,Furnished,1.1,22.524,88.3652,3,Yes,Apartment,Yes,97.12
+Howrah (Shalimar),711103,1215,3,2,7,9,Unfurnished,3.4,22.5806,88.311,2,Yes,Apartment,Yes,69.68
+Dumdum,700055,1328,3,3,8,8,Furnished,1.2,22.6312,88.4219,2,Yes,Apartment,Yes,81.74
+Garia,700047,945,2,2,3,16,Unfurnished,1.9,22.4636,88.3918,1,No,Independent House,Yes,55.85
+Esplanade,700069,768,1,1,3,18,Unfurnished,0.7,22.5685,88.352,0,No,Apartment,Yes,53.82
+Jadavpur,700032,1095,2,2,5,12,Furnished,1.6,22.4938,88.3723,1,No,Apartment,Yes,65.99
+Lake Town,700089,830,2,1,4,17,Unfurnished,0.9,22.6074,88.4053,0,Yes,Apartment,No,49.91
+Rajarhat,700135,1440,3,3,11,6,Furnished,2.0,22.5983,88.4734,2,No,Apartment,Yes,92.22
+Shyambazar,700004,918,2,1,3,16,Unfurnished,0.5,22.6029,88.3711,1,No,Apartment,No,54.66
+Salt Lake (Bidhannagar),700106,1548,3,3,13,3,Furnished,1.1,22.5945,88.4086,4,Yes,Apartment,No,105.26
+Park Street,700016,1240,3,3,9,7,Furnished,0.8,22.5543,88.3507,3,Yes,Apartment,Yes,91.88
+Baranagar,700035,1172,3,2,6,11,Unfurnished,2.6,22.6569,88.3685,2,No,Apartment,Yes,70.73
+Behala,700034,1220,3,2,5,13,Furnished,2.3,22.4893,88.3149,2,Yes,Apartment,Yes,71.61
+Ballygunge,700019,1270,3,3,10,8,Furnished,1.0,22.5216,88.3661,1,No,Apartment,Yes,87.05
+Dumdum,700055,948,2,2,4,16,Unfurnished,1.1,22.6308,88.4226,1,No,Apartment,Yes,57.19
+Garia,700084,1108,2,2,4,12,Unfurnished,1.8,22.4601,88.395,1,No,Apartment,Yes,66.07
+Howrah (Shalimar),711102,1237,3,2,8,8,Unfurnished,3.5,22.5815,88.3126,3,Yes,Independent House,Yes,71.38
+Jadavpur,700032,970,2,2,3,17,Furnished,1.5,22.4945,88.3726,1,No,Apartment,Yes,57.91
+Esplanade,700069,742,1,1,3,19,Unfurnished,0.6,22.5688,88.3518,0,No,Independent House,No,52.18
+Lake Town,700089,1010,2,2,5,13,Furnished,1.0,22.6065,88.4055,0,No,Apartment,Yes,61.41
+Rajarhat,700135,1398,3,3,10,7,Furnished,2.1,22.5976,88.4743,2,Yes,Apartment,Yes,89.96
+Salt Lake (Bidhannagar),700064,1340,3,3,11,8,Furnished,1.0,22.5874,88.4175,2,Yes,Apartment,No,88.99
+Tollygunge,700033,1300,3,3,11,7,Furnished,1.1,22.5002,88.3496,2,Yes,Apartment,Yes,86.69
+Baranagar,700108,1225,3,2,7,10,Unfurnished,2.5,22.6676,88.368,2,Yes,Independent House,Yes,74.42
+Behala,700008,1185,3,2,6,12,Unfurnished,2.8,22.4855,88.2999,2,Yes,Apartment,Yes,68.73
+Ballygunge,700020,1460,3,3,13,4,Furnished,1.2,22.5244,88.3642,1,Yes,Apartment,No,100.74
+Dumdum,700055,1025,2,2,5,14,Unfurnished,1.3,22.6303,88.4231,0,No,Apartment,Yes,62.06
+Garia,700047,988,2,2,3,16,Unfurnished,1.7,22.4648,88.3906,3,No,Apartment,Yes,58.51
+Howrah (Shalimar),711105,1182,3,2,6,10,Unfurnished,3.6,22.5842,88.3097,1,Yes,Apartment,Yes,67.51
+Shyambazar,700004,945,2,1,3,14,Unfurnished,0.7,22.6041,88.3722,0,Yes,Apartment,Yes,56.38
+Park Street,700016,1490,3,3,14,3,Furnished,0.9,22.5532,88.3514,3,Yes,Apartment,Yes,112.47
+New Town,700156,1188,3,2,7,9,Unfurnished,2.4,22.5839,88.4886,4,Yes,Apartment,Yes,75.21
+Salt Lake (Bidhannagar),700106,1525,3,3,12,3,Furnished,1.0,22.5949,88.4081,1,No,Apartment,No,103.38
+Baranagar,700035,1208,3,2,6,13,Furnished,2.2,22.6613,88.3682,2,No,Apartment,Yes,73.12
+Behala,700061,1250,3,2,7,11,Unfurnished,2.6,22.487,88.3025,2,Yes,Apartment,No,73.51
+Ballygunge,700019,1402,3,3,12,7,Furnished,1.0,22.5232,88.3647,3,Yes,Apartment,Yes,96.61
+Dumdum,700056,1115,2,2,5,13,Unfurnished,1.4,22.6295,88.4236,1,Yes,Apartment,No,68.28
+Esplanade,700069,820,1,1,3,18,Unfurnished,0.6,22.5695,88.3515,0,Yes,Apartment,Yes,58.38
+Garia,700084,1052,2,2,4,12,Unfurnished,1.9,22.4605,88.3952,2,No,Apartment,Yes,62.9
+Howrah (Shalimar),711103,1140,3,2,5,11,Unfurnished,3.7,22.5831,88.3117,2,Yes,Apartment,Yes,65.44
+Jadavpur,700032,1020,2,2,4,15,Furnished,1.5,22.4942,88.372,1,No,Apartment,Yes,61.22
+Lake Town,700089,865,2,1,4,19,Unfurnished,1.0,22.6067,88.4062,1,Yes,Apartment,Yes,52.45
+New Town,700156,1445,3,3,12,6,Furnished,2.2,22.5853,88.4875,1,Yes,Apartment,Yes,95.73
+Rajarhat,700135,1195,3,2,8,10,Unfurnished,2.0,22.5975,88.4752,2,Yes,Independent House,Yes,75.46
+Park Street,700016,1370,3,3,10,5,Furnished,0.7,22.555,88.351,2,Yes,Apartment,Yes,102.57
+Salt Lake (Bidhannagar),700064,1490,3,3,12,4,Furnished,1.2,22.5878,88.4175,2,Yes,Apartment,Yes,100.82
+Shyambazar,700004,990,2,2,5,12,Unfurnished,0.6,22.6036,88.3731,1,Yes,Apartment,Yes,59.4
+Tollygunge,700033,1330,3,3,11,6,Furnished,1.0,22.4997,88.3501,3,Yes,Apartment,Yes,88.81
+Baranagar,700090,1015,2,2,4,14,Furnished,2.3,22.662,88.3688,2,No,Independent House,Yes,60.34
+Behala,700060,1290,3,2,7,11,Unfurnished,2.5,22.4884,88.3047,2,Yes,Apartment,Yes,75.66
+Ballygunge,700020,1420,3,3,12,5,Furnished,1.1,22.5242,88.3654,2,Yes,Apartment,No,97.78
+Howrah (Shalimar),711102,1225,3,2,7,9,Unfurnished,3.5,22.5817,88.3125,2,Yes,Independent House,Yes,70.44
+Dumdum,700055,1335,3,3,8,8,Furnished,1.2,22.6315,88.4218,2,No,Apartment,Yes,82.26
+Garia,700047,950,2,2,3,16,Unfurnished,1.9,22.4638,88.3919,1,Yes,Apartment,Yes,56.24
+Esplanade,700069,770,1,1,3,18,Unfurnished,0.7,22.5687,88.3521,0,No,Apartment,Yes,54.29
+Jadavpur,700032,1100,2,2,5,12,Furnished,1.6,22.4939,88.3725,1,Yes,Apartment,Yes,66.33
+Lake Town,700089,835,2,1,4,17,Unfurnished,0.9,22.607,88.4056,3,No,Apartment,No,50.28
+Rajarhat,700135,1450,3,3,11,6,Furnished,2.0,22.5985,88.4737,3,No,Apartment,Yes,93.09
+Shyambazar,700004,920,2,1,3,16,Unfurnished,0.5,22.603,88.3713,1,No,Independent House,Yes,54.83
+Salt Lake (Bidhannagar),700106,1550,3,3,13,3,Furnished,1.1,22.5946,88.4088,2,No,Apartment,Yes,105.55
+Park Street,700016,1250,3,3,9,7,Furnished,0.8,22.5544,88.3508,1,Yes,Apartment,Yes,92.75
+Baranagar,700035,1180,3,2,6,11,Unfurnished,2.6,22.657,88.3686,3,Yes,Apartment,Yes,71.27
+Behala,700034,1230,3,2,5,13,Furnished,2.3,22.4895,88.3151,2,Yes,Apartment,Yes,72.32
+Ballygunge,700019,1275,3,3,10,8,Furnished,1.0,22.5218,88.3663,3,Yes,Apartment,Yes,87.34
+Dumdum,700055,950,2,2,4,16,Unfurnished,1.1,22.6309,88.4228,0,Yes,Apartment,No,57.38
+Garia,700084,1110,2,2,4,12,Unfurnished,1.8,22.4603,88.3951,2,Yes,Apartment,Yes,66.46
+Howrah (Shalimar),711105,1240,3,2,8,8,Unfurnished,3.6,22.584,88.3095,2,Yes,Apartment,No,71.42
+Jadavpur,700032,975,2,2,3,17,Furnished,1.5,22.4946,88.3727,0,No,Apartment,Yes,58.5
+Esplanade,700069,745,1,1,3,19,Unfurnished,0.6,22.5689,88.3519,0,Yes,Apartment,Yes,52.56
+Lake Town,700089,1015,2,2,5,13,Furnished,1.0,22.6066,88.4054,1,Yes,Apartment,Yes,61.88
+Rajarhat,700135,1405,3,3,10,7,Furnished,2.1,22.5978,88.474,2,Yes,Apartment,Yes,90.63
+Salt Lake (Bidhannagar),700064,1345,3,3,11,8,Furnished,1.0,22.5877,88.4174,2,No,Independent House,Yes,89.74
+Tollygunge,700033,1310,3,3,11,7,Furnished,1.1,22.5003,88.3498,2,Yes,Apartment,Yes,87.51
+Baranagar,700108,1230,3,2,7,10,Unfurnished,2.5,22.6677,88.3683,2,No,Independent House,Yes,74.78
+Behala,700008,1190,3,2,6,12,Unfurnished,2.8,22.4858,88.3001,2,Yes,Apartment,Yes,69.5
+Ballygunge,700020,1470,3,3,13,4,Furnished,1.2,22.5245,88.3645,3,Yes,Apartment,Yes,101.48
+Dumdum,700055,1030,2,2,5,14,Unfurnished,1.3,22.6305,88.4232,0,No,Apartment,Yes,62.3
+Garia,700047,990,2,2,3,16,Unfurnished,1.7,22.465,88.3908,1,Yes,Apartment,No,58.71
+Howrah (Shalimar),711102,1190,3,2,6,10,Unfurnished,3.6,22.5845,88.31,2,Yes,Independent House,Yes,68.07
+Shyambazar,700004,950,2,1,3,14,Unfurnished,0.7,22.6042,88.3724,1,Yes,Apartment,No,56.81
+Park Street,700016,1500,3,3,14,3,Furnished,0.9,22.5533,88.3516,2,Yes,Apartment,Yes,113.25
+New Town,700156,1195,3,2,7,9,Unfurnished,2.4,22.5841,88.4888,1,No,Apartment,Yes,75.74
+Salt Lake (Bidhannagar),700106,1530,3,3,12,3,Furnished,1.0,22.595,88.4083,2,No,Apartment,Yes,103.79
+Baranagar,700035,1280,3,2,6,11,Unfurnished,2.2,22.661,88.368,3,No,Apartment,Yes,78.08
+Behala,700063,1315,3,2,7,10,Furnished,2.7,22.486,88.3015,1,Yes,Apartment,Yes,78.19
+Ballygunge,700019,1380,3,3,11,6,Furnished,1.0,22.5238,88.3649,3,Yes,Independent House,Yes,95.22
+Dumdum,700056,1105,2,2,5,12,Unfurnished,1.4,22.6298,88.4233,1,No,Apartment,Yes,68.5
+Esplanade,700069,830,1,1,3,17,Unfurnished,0.6,22.5692,88.3516,0,Yes,Apartment,Yes,59.45
+Garia,700084,1080,2,2,4,11,Unfurnished,1.9,22.461,88.395,1,Yes,Apartment,Yes,64.8
+Howrah (Shalimar),711103,1160,3,2,6,9,Unfurnished,3.7,22.583,88.3115,2,No,Independent House,Yes,67.28
+Jadavpur,700032,1030,2,2,4,14,Furnished,1.5,22.494,88.3722,2,No,Apartment,Yes,62.32
+Lake Town,700089,870,2,1,4,18,Unfurnished,1.0,22.6072,88.406,2,Yes,Apartment,Yes,53.07
+New Town,700156,1450,3,3,12,5,Furnished,2.2,22.585,88.487,3,No,Apartment,Yes,96.43
+Rajarhat,700135,1200,3,2,8,10,Unfurnished,2.0,22.597,88.475,3,Yes,Apartment,No,76.2
+Park Street,700016,1385,3,3,10,5,Furnished,0.7,22.5555,88.3509,2,Yes,Apartment,Yes,103.88
+Salt Lake (Bidhannagar),700064,1505,3,3,12,4,Furnished,1.2,22.588,88.4177,3,Yes,Apartment,No,102.27
+Shyambazar,700004,995,2,2,5,12,Unfurnished,0.6,22.6035,88.373,1,Yes,Apartment,Yes,59.9
+Tollygunge,700033,1340,3,3,11,6,Furnished,1.0,22.5,88.35,3,Yes,Apartment,Yes,89.78
+Baranagar,700090,1025,2,2,4,13,Furnished,2.3,22.6615,88.3685,1,Yes,Apartment,Yes,61.35
+Behala,700060,1300,3,2,7,11,Unfurnished,2.5,22.4878,88.304,2,No,Apartment,Yes,76.7
+Ballygunge,700020,1435,3,3,12,5,Furnished,1.1,22.524,88.365,2,Yes,Apartment,Yes,99.38
+Howrah (Shalimar),711102,1230,3,2,7,9,Unfurnished,3.5,22.582,88.312,3,Yes,Apartment,Yes,71.09
+Dumdum,700055,1340,3,3,8,8,Furnished,1.2,22.631,88.4215,1,No,Apartment,No,83.08
+Garia,700047,960,2,2,3,16,Unfurnished,1.9,22.464,88.392,2,No,Apartment,Yes,57.12
+Esplanade,700069,775,1,1,3,18,Unfurnished,0.7,22.5685,88.352,0,Yes,Apartment,No,55.03
+Jadavpur,700032,1110,2,2,5,12,Furnished,1.6,22.4945,88.3725,2,Yes,Apartment,Yes,67.38
+Lake Town,700089,840,2,1,4,17,Unfurnished,0.9,22.6068,88.4055,2,No,Apartment,Yes,50.82
+Rajarhat,700135,1460,3,3,11,6,Furnished,2.0,22.598,88.4735,3,Yes,Apartment,Yes,94.17
+Shyambazar,700004,925,2,1,3,16,Unfurnished,0.5,22.6032,88.371,2,No,Apartment,Yes,55.27
+Salt Lake (Bidhannagar),700106,1555,3,3,13,3,Furnished,1.1,22.5948,88.409,1,Yes,Apartment,Yes,105.88
+Park Street,700016,1260,3,3,9,7,Furnished,0.8,22.554,88.3507,2,Yes,Apartment,Yes,93.87
+Baranagar,700035,1190,3,2,6,11,Unfurnished,2.6,22.6575,88.3687,1,Yes,Apartment,No,72.11
+Behala,700034,1240,3,2,5,13,Furnished,2.3,22.49,88.315,2,Yes,Apartment,Yes,73.16
+Ballygunge,700019,1280,3,3,10,8,Furnished,1.0,22.5215,88.366,3,Yes,Apartment,Yes,88.06
+Dumdum,700055,960,2,2,4,16,Unfurnished,1.1,22.6305,88.422,2,Yes,Apartment,Yes,58.18
+Garia,700084,1120,2,2,4,12,Unfurnished,1.8,22.4605,88.3952,1,Yes,Apartment,Yes,67.2
+Howrah (Shalimar),711105,1250,3,2,8,8,Unfurnished,3.6,22.5842,88.3098,2,Yes,Apartment,Yes,72.5
+Jadavpur,700032,980,2,2,3,17,Furnished,1.5,22.4948,88.3726,1,No,Apartment,Yes,59.1
+Esplanade,700069,750,1,1,3,19,Unfurnished,0.6,22.5688,88.3522,0,Yes,Independent House,Yes,52.95
+Lake Town,700089,1020,2,2,5,13,Furnished,1.0,22.6065,88.405,1,Yes,Apartment,Yes,62.22
+Rajarhat,700135,1410,3,3,10,7,Furnished,2.1,22.5982,88.474,2,Yes,Apartment,Yes,91.37
+Salt Lake (Bidhannagar),700064,1350,3,3,11,8,Furnished,1.0,22.5875,88.417,3,No,Apartment,Yes,90.18
+Tollygunge,700033,1320,3,3,11,7,Furnished,1.1,22.5005,88.3495,3,No,Apartment,Yes,88.44
+Baranagar,700108,1240,3,2,7,10,Unfurnished,2.5,22.6675,88.3682,1,Yes,Apartment,Yes,75.64
+Behala,700008,1200,3,2,6,12,Unfurnished,2.8,22.486,88.3,2,Yes,Apartment,Yes,70.2
+Ballygunge,700020,1480,3,3,13,4,Furnished,1.2,22.5248,88.3648,2,No,Apartment,Yes,102.32
+Dumdum,700055,1040,2,2,5,14,Unfurnished,1.3,22.6307,88.423,1,Yes,Apartment,No,63.23
+Garia,700047,1000,2,2,3,16,Unfurnished,1.7,22.4652,88.3915,2,No,Independent House,Yes,59.6
+Howrah (Shalimar),711102,1200,3,2,6,10,Unfurnished,3.6,22.5847,88.3105,1,Yes,Apartment,Yes,69.0
+Shyambazar,700004,955,2,1,3,14,Unfurnished,0.7,22.604,88.372,1,Yes,Independent House,Yes,57.3
+Park Street,700016,1510,3,3,14,3,Furnished,0.9,22.553,88.3515,3,Yes,Apartment,Yes,114.56
+New Town,700156,1200,3,2,7,9,Unfurnished,2.4,22.5843,88.4885,1,No,Apartment,Yes,76.44
+Salt Lake (Bidhannagar),700106,1540,3,3,12,3,Furnished,1.0,22.5952,88.4085,3,No,Apartment,Yes,104.72
+Rajarhat,700135,1380,3,3,9,7,Furnished,2.0,22.5975,88.4742,2,Yes,Apartment,No,89.7
+Tollygunge,700033,1335,3,3,11,6,Furnished,1.0,22.5001,88.3497,3,Yes,Apartment,Yes,89.75
+Lake Town,700089,875,2,1,4,18,Unfurnished,1.0,22.6075,88.4065,1,Yes,Independent House,Yes,53.55
+Baranagar,700035,1290,3,2,6,11,Unfurnished,2.2,22.6612,88.3681,3,No,Apartment,Yes,79.15
+Behala,700063,1320,3,2,7,10,Furnished,2.7,22.4862,88.3018,3,Yes,Apartment,Yes,78.94
+Ballygunge,700019,1390,3,3,11,6,Furnished,1.0,22.5235,88.3645,2,No,Apartment,Yes,96.05
+Dumdum,700056,1110,2,2,5,12,Unfurnished,1.4,22.6297,88.4234,1,No,Apartment,Yes,68.82
+Esplanade,700069,835,1,1,3,17,Unfurnished,0.6,22.569,88.3517,0,Yes,Independent House,Yes,59.87
+Garia,700084,1090,2,2,4,11,Unfurnished,1.9,22.4608,88.3953,1,Yes,Apartment,Yes,65.52
+Howrah (Shalimar),711103,1170,3,2,6,9,Unfurnished,3.7,22.5833,88.3118,2,No,Apartment,Yes,68.09
+Jadavpur,700032,1040,2,2,4,14,Furnished,1.5,22.4942,88.3723,1,No,Independent House,Yes,63.23
+Lake Town,700089,875,2,1,4,18,Unfurnished,1.0,22.6073,88.4061,1,Yes,Apartment,Yes,53.88
+New Town,700156,1460,3,3,12,5,Furnished,2.2,22.5851,88.4872,3,No,Apartment,Yes,97.53
+Rajarhat,700135,1210,3,2,8,10,Unfurnished,2.0,22.5972,88.4748,2,Yes,Apartment,Yes,77.1
+Park Street,700016,1390,3,3,10,5,Furnished,0.7,22.5552,88.3509,2,Yes,Apartment,Yes,104.43
+Salt Lake (Bidhannagar),700064,1510,3,3,12,4,Furnished,1.2,22.5882,88.4179,3,Yes,Apartment,Yes,102.68
+Shyambazar,700004,1000,2,2,5,12,Unfurnished,0.6,22.6038,88.3732,1,No,Independent House,Yes,60.4
+Tollygunge,700033,1345,3,3,11,6,Furnished,1.0,22.5002,88.3499,2,No,Apartment,Yes,90.32
+Baranagar,700090,1035,2,2,4,13,Furnished,2.3,22.6618,88.3686,1,No,Independent House,Yes,62.1
+Behala,700060,1310,3,2,7,11,Unfurnished,2.5,22.4875,88.3042,3,Yes,Independent House,Yes,77.55
+Ballygunge,700020,1445,3,3,12,5,Furnished,1.1,22.5243,88.3653,2,Yes,Apartment,Yes,100.28
+Howrah (Shalimar),711102,1245,3,2,7,9,Unfurnished,3.5,22.5823,88.3123,3,No,Apartment,No,72.21
+Dumdum,700055,1350,3,3,8,8,Furnished,1.2,22.6312,88.4217,3,Yes,Apartment,Yes,83.97
+Garia,700047,970,2,2,3,16,Unfurnished,1.9,22.4642,88.3917,2,Yes,Apartment,No,57.91
+Esplanade,700069,780,1,1,3,18,Unfurnished,0.7,22.5686,88.3523,1,No,Apartment,Yes,55.54
+Jadavpur,700032,1120,2,2,5,12,Furnished,1.6,22.4947,88.3727,3,No,Apartment,Yes,68.32
+Lake Town,700089,845,2,1,4,17,Unfurnished,0.9,22.6069,88.4057,1,No,Apartment,Yes,51.19
+Rajarhat,700135,1470,3,3,11,6,Furnished,2.0,22.5983,88.4738,1,No,Apartment,Yes,94.96
+Salt Lake (Bidhannagar),700106,1560,3,3,13,3,Furnished,1.0,22.5955,88.4087,3,No,Apartment,Yes,106.7
+Tollygunge,700033,1330,3,3,11,7,Furnished,1.1,22.5006,88.3496,2,Yes,Apartment,Yes,89.41
+Baranagar,700108,1250,3,2,7,10,Unfurnished,2.5,22.6678,88.3684,2,No,Apartment,Yes,76.5
+Behala,700008,1210,3,2,6,12,Unfurnished,2.8,22.4863,88.3002,3,Yes,Apartment,Yes,71.15
+Ballygunge,700019,1490,3,3,13,4,Furnished,1.2,22.525,88.3649,1,Yes,Apartment,Yes,103.25
+Dumdum,700055,1050,2,2,5,14,Unfurnished,1.3,22.6308,88.4231,0,Yes,Apartment,Yes,64.05
+Garia,700047,1010,2,2,3,16,Unfurnished,1.7,22.4655,88.3917,0,No,Independent House,Yes,60.4
+Howrah (Shalimar),711102,1210,3,2,6,10,Unfurnished,3.6,22.5849,88.3108,2,Yes,Independent House,Yes,69.94
+Shyambazar,700004,960,2,1,3,14,Unfurnished,0.7,22.6043,88.3723,1,Yes,Apartment,Yes,57.79
+Park Street,700016,1520,3,3,14,3,Furnished,0.9,22.5532,88.3518,3,Yes,Apartment,Yes,115.52
+New Town,700156,1210,3,2,7,9,Unfurnished,2.4,22.5845,88.4887,2,Yes,Apartment,Yes,77.37
+Salt Lake (Bidhannagar),700106,1550,3,3,12,3,Furnished,1.0,22.5957,88.4089,1,Yes,Apartment,Yes,105.71
+Rajarhat,700135,1390,3,3,9,7,Furnished,2.0,22.5978,88.4745,1,Yes,Apartment,Yes,90.43
+Tollygunge,700033,1340,3,3,11,6,Furnished,1.0,22.5007,88.3498,2,Yes,Apartment,Yes,90.52
+Lake Town,700089,880,2,1,4,18,Unfurnished,1.0,22.6076,88.4068,1,No,Independent House,Yes,54.03
+Baranagar,700035,1300,3,2,6,11,Unfurnished,2.2,22.6615,88.3682,2,Yes,Independent House,Yes,79.9
+Behala,700063,1330,3,2,7,10,Furnished,2.7,22.4865,88.302,3,Yes,Independent House,Yes,79.8
+Ballygunge,700019,1400,3,3,11,6,Furnished,1.0,22.5237,88.365,2,No,Apartment,Yes,97.02
+Dumdum,700056,1120,2,2,5,12,Unfurnished,1.4,22.6299,88.4235,2,Yes,Apartment,No,69.66
+Esplanade,700069,840,1,1,3,17,Unfurnished,0.6,22.5693,88.3518,0,No,Independent House,Yes,60.48
+Garia,700084,1100,2,2,4,11,Unfurnished,1.9,22.4612,88.3954,2,Yes,Apartment,Yes,66.44
+Howrah (Shalimar),711103,1180,3,2,6,9,Unfurnished,3.7,22.5835,88.3119,2,Yes,Apartment,Yes,68.91
+Jadavpur,700032,1060,2,2,4,13,Furnished,1.5,22.4943,88.3728,1,No,Apartment,Yes,64.66
+Lake Town,700089,890,2,1,4,17,Unfurnished,1.0,22.6077,88.4069,1,No,Apartment,Yes,54.74
+New Town,700156,1480,3,3,12,5,Furnished,2.2,22.5853,88.4875,3,Yes,Apartment,Yes,99.16
+Rajarhat,700135,1230,3,2,8,10,Unfurnished,2.0,22.5974,88.4749,2,No,Apartment,Yes,78.72
+Park Street,700016,1400,3,3,10,5,Furnished,0.7,22.5553,88.351,3,No,Apartment,Yes,105.7
+Salt Lake (Bidhannagar),700064,1520,3,3,12,4,Furnished,1.2,22.5883,88.418,2,Yes,Apartment,Yes,103.66
+Shyambazar,700004,980,2,2,5,12,Unfurnished,0.6,22.6039,88.3733,1,Yes,Apartment,Yes,59.39
+Tollygunge,700033,1350,3,3,11,6,Furnished,1.0,22.5003,88.3499,3,Yes,Apartment,No,91.13
+Baranagar,700090,1050,2,2,4,13,Furnished,2.3,22.662,88.3687,0,No,Apartment,No,63.21
+Behala,700060,1325,3,2,7,11,Unfurnished,2.5,22.4876,88.3043,1,Yes,Independent House,Yes,78.71
+Ballygunge,700020,1450,3,3,12,5,Furnished,1.1,22.5244,88.3654,1,Yes,Apartment,Yes,100.78
+Howrah (Shalimar),711102,1255,3,2,7,9,Unfurnished,3.5,22.5824,88.3124,1,No,Apartment,Yes,72.97
+Dumdum,700055,1360,3,3,8,8,Furnished,1.2,22.6313,88.4218,2,Yes,Apartment,Yes,84.86
+Garia,700047,980,2,2,3,16,Unfurnished,1.9,22.4643,88.3918,2,No,Apartment,Yes,58.8
+Esplanade,700069,790,1,1,3,18,Unfurnished,0.7,22.5687,88.3524,0,No,Independent House,Yes,56.48
+Jadavpur,700032,1130,2,2,5,12,Furnished,1.6,22.4948,88.3729,1,No,Apartment,Yes,69.16
+Lake Town,700089,850,2,1,4,17,Unfurnished,0.9,22.607,88.4058,2,No,Apartment,No,51.68
+Rajarhat,700135,1480,3,3,11,6,Furnished,2.0,22.5984,88.474,3,No,Apartment,Yes,95.9
+Salt Lake (Bidhannagar),700106,1570,3,3,13,3,Furnished,1.0,22.5958,88.4088,2,No,Apartment,Yes,107.7
+Tollygunge,700033,1345,3,3,11,7,Furnished,1.1,22.5004,88.3497,3,Yes,Independent House,Yes,90.84
+Baranagar,700108,1260,3,2,7,10,Unfurnished,2.5,22.6679,88.3685,2,Yes,Apartment,Yes,77.36
+Behala,700008,1220,3,2,6,12,Unfurnished,2.8,22.4864,88.3003,2,Yes,Independent House,Yes,72.1
+Ballygunge,700019,1500,3,3,13,4,Furnished,1.2,22.5251,88.365,2,Yes,Apartment,Yes,104.16
+Dumdum,700055,1060,2,2,5,14,Unfurnished,1.3,22.6309,88.4232,0,Yes,Apartment,Yes,64.87
+Garia,700047,1020,2,2,3,16,Unfurnished,1.7,22.4656,88.3918,1,No,Apartment,Yes,61.2
+Howrah (Shalimar),711102,1220,3,2,6,10,Unfurnished,3.6,22.585,88.3109,2,Yes,Apartment,Yes,70.76
+Shyambazar,700004,970,2,1,3,14,Unfurnished,0.7,22.6044,88.3724,2,No,Apartment,Yes,58.59
+Park Street,700016,1530,3,3,14,3,Furnished,0.9,22.5533,88.3519,3,Yes,Apartment,Yes,116.49
+New Town,700156,1220,3,2,7,9,Unfurnished,2.4,22.5846,88.4888,1,Yes,Apartment,No,78.2
+Salt Lake (Bidhannagar),700106,1560,3,3,12,3,Furnished,1.0,22.5959,88.409,2,Yes,Apartment,Yes,106.7
+Rajarhat,700135,1400,3,3,9,7,Furnished,2.0,22.598,88.4746,2,Yes,Apartment,Yes,91.56
+Tollygunge,700033,1345,3,3,11,6,Furnished,1.0,22.5005,88.3499,3,Yes,Apartment,Yes,91.53
+Lake Town,700089,885,2,1,4,18,Unfurnished,1.0,22.6078,88.4069,1,No,Apartment,Yes,54.46
+Baranagar,700035,1310,3,2,6,11,Unfurnished,2.2,22.6617,88.3683,1,Yes,Apartment,No,80.7
+Behala,700063,1340,3,2,7,10,Furnished,2.7,22.4866,88.3021,3,Yes,Independent House,Yes,80.87
+Ballygunge,700019,1410,3,3,11,6,Furnished,1.0,22.5238,88.3651,2,No,Apartment,No,97.75
+Dumdum,700056,1130,2,2,5,12,Unfurnished,1.4,22.63,88.4236,1,Yes,Apartment,Yes,70.51
+Esplanade,700069,845,1,1,3,17,Unfurnished,0.6,22.5694,88.3519,0,No,Apartment,Yes,60.91
+Garia,700084,1110,2,2,4,11,Unfurnished,1.9,22.4614,88.3955,1,Yes,Apartment,Yes,67.17
+Howrah (Shalimar),711103,1190,3,2,6,9,Unfurnished,3.7,22.5837,88.312,2,Yes,Apartment,Yes,69.73
+Jadavpur,700032,1070,2,2,4,13,Furnished,1.5,22.4944,88.373,1,Yes,Apartment,Yes,65.48
+Lake Town,700089,895,2,1,4,17,Unfurnished,1.0,22.6079,88.407,1,Yes,Independent House,Yes,55.21
+New Town,700156,1490,3,3,12,5,Furnished,2.2,22.5855,88.4877,2,No,Apartment,Yes,99.93
+Rajarhat,700135,1240,3,2,8,10,Unfurnished,2.0,22.5975,88.475,3,Yes,Independent House,Yes,79.61
+Park Street,700016,1410,3,3,10,5,Furnished,0.7,22.5554,88.3511,2,Yes,Apartment,No,106.88
+Salt Lake (Bidhannagar),700064,1530,3,3,12,4,Furnished,1.2,22.5884,88.4181,1,Yes,Apartment,Yes,104.65
+Shyambazar,700004,990,2,2,5,12,Unfurnished,0.6,22.604,88.3734,2,Yes,Apartment,Yes,60.19
+Tollygunge,700033,1360,3,3,11,6,Furnished,1.0,22.5006,88.35,2,Yes,Independent House,Yes,92.07
+Baranagar,700090,1060,2,2,4,13,Furnished,2.3,22.6621,88.3688,2,Yes,Apartment,Yes,64.02
+Behala,700060,1335,3,2,7,11,Unfurnished,2.5,22.4877,88.3044,2,Yes,Apartment,No,79.56
+Ballygunge,700020,1460,3,3,12,5,Furnished,1.1,22.5245,88.3655,2,Yes,Apartment,Yes,101.62
+Howrah (Shalimar),711102,1260,3,2,7,9,Unfurnished,3.5,22.5825,88.3125,2,No,Apartment,Yes,73.58
+Dumdum,700055,1370,3,3,8,8,Furnished,1.2,22.6314,88.4219,3,Yes,Apartment,Yes,85.86
+Garia,700047,990,2,2,3,16,Unfurnished,1.9,22.4644,88.3919,3,Yes,Apartment,Yes,59.6
+Esplanade,700069,795,1,1,3,18,Unfurnished,0.7,22.5688,88.3525,0,No,Apartment,Yes,57.13
+Jadavpur,700032,1140,2,2,5,12,Furnished,1.6,22.4949,88.373,1,Yes,Apartment,Yes,70.0
+Lake Town,700089,855,2,1,4,17,Unfurnished,0.9,22.6071,88.4059,2,Yes,Apartment,No,52.16
+Rajarhat,700135,1490,3,3,11,6,Furnished,2.0,22.5985,88.4742,2,Yes,Apartment,No,96.85
+Salt Lake (Bidhannagar),700106,1580,3,3,13,3,Furnished,1.0,22.596,88.4091,2,No,Apartment,Yes,108.7
+Tollygunge,700033,1350,3,3,11,7,Furnished,1.1,22.5007,88.35,2,Yes,Apartment,Yes,91.53
+Baranagar,700108,1270,3,2,7,10,Unfurnished,2.5,22.668,88.3686,2,Yes,Independent House,Yes,78.37
+Behala,700008,1230,3,2,6,12,Unfurnished,2.8,22.4865,88.3004,2,No,Apartment,Yes,72.82
+Ballygunge,700019,1510,3,3,13,4,Furnished,1.2,22.5252,88.3651,1,Yes,Apartment,Yes,105.47
+Dumdum,700055,1070,2,2,5,14,Unfurnished,1.3,22.631,88.4233,0,No,Apartment,No,65.7
+Garia,700047,1030,2,2,3,16,Unfurnished,1.7,22.4657,88.3919,0,Yes,Independent House,Yes,62.06
+Howrah (Shalimar),711102,1230,3,2,6,10,Unfurnished,3.6,22.5851,88.311,2,Yes,Apartment,Yes,71.51
+Shyambazar,700004,980,2,1,3,14,Unfurnished,0.7,22.6045,88.3725,1,No,Apartment,Yes,59.39
+Park Street,700016,1540,3,3,14,3,Furnished,0.9,22.5534,88.352,3,Yes,Apartment,Yes,117.76
+New Town,700156,1230,3,2,7,9,Unfurnished,2.4,22.5847,88.4889,3,Yes,Apartment,Yes,79.19
+Salt Lake (Bidhannagar),700106,1570,3,3,12,3,Furnished,1.0,22.5961,88.4092,2,No,Apartment,Yes,107.7
+Rajarhat,700135,1410,3,3,9,7,Furnished,2.0,22.5981,88.4747,2,Yes,Apartment,Yes,92.5
+Tollygunge,700033,1355,3,3,11,6,Furnished,1.0,22.5008,88.3501,2,Yes,Apartment,Yes,92.34
+Lake Town,700089,890,2,1,4,18,Unfurnished,1.0,22.608,88.407,1,No,Independent House,Yes,54.8
+Baranagar,700035,1320,3,2,6,11,Unfurnished,2.2,22.6618,88.3684,2,Yes,Apartment,Yes,81.48
+Behala,700063,1350,3,2,7,10,Furnished,2.7,22.4867,88.3022,3,Yes,Apartment,Yes,81.54
+Ballygunge,700019,1420,3,3,11,6,Furnished,1.0,22.5239,88.3652,2,Yes,Apartment,Yes,98.83
+Dumdum,700056,1140,2,2,5,12,Unfurnished,1.4,22.6301,88.4237,2,Yes,Apartment,Yes,71.36
+Esplanade,700069,850,1,1,3,17,Unfurnished,0.6,22.5695,88.352,0,Yes,Independent House,No,61.4
+Garia,700084,1120,2,2,4,11,Unfurnished,1.9,22.4615,88.3956,1,Yes,Independent House,Yes,68.1
+Howrah (Shalimar),711103,1200,3,2,6,9,Unfurnished,3.7,22.5838,88.3121,4,No,Independent House,Yes,70.56
+Jadavpur,700032,1080,2,2,4,13,Furnished,1.5,22.4945,88.3731,1,No,Apartment,Yes,66.31
+Lake Town,700089,900,2,1,4,17,Unfurnished,1.0,22.6081,88.4071,2,Yes,Apartment,Yes,55.71
+New Town,700156,1500,3,3,12,5,Furnished,2.2,22.5856,88.4879,2,No,Apartment,Yes,101.1
+Rajarhat,700135,1250,3,2,8,10,Unfurnished,2.0,22.5976,88.4751,3,Yes,Apartment,Yes,80.5
+Park Street,700016,1420,3,3,10,5,Furnished,0.7,22.5555,88.3512,2,Yes,Apartment,Yes,107.92
+Salt Lake (Bidhannagar),700064,1540,3,3,12,4,Furnished,1.2,22.5885,88.4182,2,Yes,Apartment,Yes,105.64
+Shyambazar,700004,1000,2,2,5,12,Unfurnished,0.6,22.6041,88.3735,1,No,Independent House,Yes,61.0
+Tollygunge,700033,1370,3,3,11,6,Furnished,1.0,22.5009,88.3502,2,No,Apartment,Yes,93.02
+Baranagar,700090,1070,2,2,4,13,Furnished,2.3,22.6622,88.3689,1,No,Apartment,No,64.84
+Behala,700060,1340,3,2,7,11,Unfurnished,2.5,22.4878,88.3045,3,Yes,Apartment,Yes,80.13
+Ballygunge,700020,1470,3,3,12,5,Furnished,1.1,22.5246,88.3656,3,Yes,Apartment,Yes,102.81
+Howrah (Shalimar),711102,1270,3,2,7,9,Unfurnished,3.5,22.5826,88.3126,2,Yes,Apartment,Yes,74.48
+Dumdum,700055,1380,3,3,8,8,Furnished,1.2,22.6315,88.422,2,Yes,Apartment,Yes,86.66
+Garia,700047,1000,2,2,3,16,Unfurnished,1.9,22.4645,88.392,1,No,Independent House,Yes,60.4
+Esplanade,700069,800,1,1,3,18,Unfurnished,0.7,22.5689,88.3526,0,No,Apartment,Yes,57.6
+Jadavpur,700032,1150,2,2,5,12,Furnished,1.6,22.495,88.3732,2,Yes,Apartment,Yes,70.84
+Lake Town,700089,860,2,1,4,17,Unfurnished,0.9,22.6072,88.406,0,No,Apartment,Yes,52.63
+Rajarhat,700135,1500,3,3,11,6,Furnished,2.0,22.5986,88.4743,2,Yes,Apartment,Yes,97.8
+Salt Lake (Bidhannagar),700106,1590,3,3,13,3,Furnished,1.0,22.5962,88.4093,1,Yes,Apartment,Yes,109.71
+Tollygunge,700033,1360,3,3,11,7,Furnished,1.1,22.5009,88.3503,1,Yes,Apartment,Yes,92.48
+Jadavpur,700032,1090,2,2,4,13,Furnished,1.5,22.4946,88.3733,2,No,Apartment,Yes,67.36
+Lake Town,700089,905,2,1,4,17,Unfurnished,1.0,22.6082,88.4072,2,No,Apartment,Yes,56.1
+New Town,700156,1510,3,3,12,5,Furnished,2.2,22.5857,88.488,2,Yes,Apartment,No,102.18
+Rajarhat,700135,1260,3,2,8,10,Unfurnished,2.0,22.5977,88.4752,1,No,Apartment,Yes,81.4
+Park Street,700016,1430,3,3,10,5,Furnished,0.7,22.5556,88.3513,0,Yes,Apartment,Yes,108.97
+Salt Lake (Bidhannagar),700064,1550,3,3,12,4,Furnished,1.2,22.5886,88.4183,2,No,Apartment,Yes,106.64
+Shyambazar,700004,1010,2,2,5,12,Unfurnished,0.6,22.6042,88.3736,3,Yes,Apartment,Yes,61.81
+Tollygunge,700033,1380,3,3,11,6,Furnished,1.0,22.501,88.3504,2,Yes,Independent House,No,94.12
+Baranagar,700090,1080,2,2,4,13,Furnished,2.3,22.6623,88.369,1,Yes,Apartment,Yes,65.66
+Behala,700060,1350,3,2,7,11,Unfurnished,2.5,22.4879,88.3046,3,Yes,Apartment,Yes,81.0
+Ballygunge,700020,1480,3,3,12,5,Furnished,1.1,22.5247,88.3657,1,Yes,Apartment,Yes,103.6
+Howrah (Shalimar),711102,1280,3,2,7,9,Unfurnished,3.5,22.5827,88.3127,2,Yes,Apartment,No,75.26
+Dumdum,700055,1390,3,3,8,8,Furnished,1.2,22.6316,88.4221,2,Yes,Independent House,Yes,87.57
+Garia,700047,1010,2,2,3,16,Unfurnished,1.9,22.4646,88.3921,1,Yes,Apartment,Yes,61.06
+Esplanade,700069,805,1,1,3,18,Unfurnished,0.7,22.569,88.3527,1,Yes,Independent House,Yes,58.22
+Jadavpur,700032,1160,2,2,5,12,Furnished,1.6,22.4951,88.3733,1,Yes,Independent House,Yes,71.69
+Lake Town,700089,865,2,1,4,17,Unfurnished,0.9,22.6073,88.4061,2,Yes,Apartment,Yes,53.11
+Rajarhat,700135,1510,3,3,11,6,Furnished,2.0,22.5987,88.4744,2,Yes,Apartment,Yes,98.95
+Salt Lake (Bidhannagar),700106,1600,3,3,13,3,Furnished,1.0,22.5963,88.4094,3,Yes,Apartment,Yes,110.72
+Tollygunge,700033,1370,3,3,11,7,Furnished,1.1,22.5011,88.3505,3,Yes,Apartment,Yes,93.43
+Baranagar,700108,1280,3,2,7,10,Unfurnished,2.5,22.6681,88.3687,2,Yes,Apartment,Yes,79.1
+Behala,700008,1240,3,2,6,12,Unfurnished,2.8,22.4866,88.3005,2,No,Apartment,Yes,73.54
+Ballygunge,700019,1520,3,3,13,4,Furnished,1.2,22.5253,88.3652,3,Yes,Apartment,Yes,105.94
+Dumdum,700055,1080,2,2,5,14,Unfurnished,1.3,22.6311,88.4234,1,Yes,Apartment,Yes,66.53
+Garia,700047,1040,2,2,3,16,Unfurnished,1.7,22.4658,88.392,2,Yes,Apartment,Yes,62.82
+Howrah (Shalimar),711102,1240,3,2,6,10,Unfurnished,3.6,22.5852,88.3111,2,No,Apartment,No,72.5
+Shyambazar,700004,990,2,1,3,14,Unfurnished,0.7,22.6046,88.3726,2,No,Apartment,Yes,60.19
+Park Street,700016,1550,3,3,14,3,Furnished,0.9,22.5537,88.3521,2,No,Apartment,Yes,118.73
+New Town,700156,1240,3,2,7,9,Unfurnished,2.4,22.5848,88.489,2,No,Apartment,Yes,80.1
+Salt Lake (Bidhannagar),700106,1580,3,3,12,3,Furnished,1.0,22.5964,88.4095,3,No,Apartment,Yes,108.7
+Rajarhat,700135,1420,3,3,9,7,Furnished,2.0,22.5982,88.4748,2,Yes,Apartment,Yes,93.44
+Tollygunge,700033,1360,3,3,11,6,Furnished,1.0,22.5012,88.3506,2,Yes,Independent House,Yes,93.02
+Lake Town,700089,895,2,1,4,18,Unfurnished,1.0,22.6083,88.4072,1,Yes,Apartment,Yes,55.4
+Baranagar,700035,1330,3,2,6,11,Unfurnished,2.2,22.6619,88.3685,2,Yes,Independent House,Yes,82.46
+Behala,700063,1360,3,2,7,10,Furnished,2.7,22.4868,88.3023,1,Yes,Apartment,Yes,82.42
+Ballygunge,700019,1430,3,3,11,6,Furnished,1.0,22.524,88.3653,3,Yes,Apartment,Yes,99.61
+Dumdum,700056,1150,2,2,5,12,Unfurnished,1.4,22.6302,88.4238,1,Yes,Apartment,No,72.22
+Esplanade,700069,855,1,1,3,17,Unfurnished,0.6,22.5696,88.3521,1,No,Apartment,Yes,61.92
+Garia,700084,1130,2,2,4,11,Unfurnished,1.9,22.4616,88.3957,0,No,Apartment,Yes,68.93
+Howrah (Shalimar),711103,1210,3,2,6,9,Unfurnished,3.7,22.5839,88.3122,2,Yes,Apartment,Yes,71.39
+Jadavpur,700032,1100,2,2,4,13,Furnished,1.5,22.4947,88.3734,0,Yes,Apartment,Yes,68.2
+Lake Town,700089,910,2,1,4,17,Unfurnished,1.0,22.6084,88.4073,1,No,Independent House,Yes,56.44
+New Town,700156,1520,3,3,12,5,Furnished,2.2,22.5858,88.4881,2,No,Apartment,Yes,103.06
+Rajarhat,700135,1270,3,2,8,10,Unfurnished,2.0,22.5978,88.4753,2,No,Apartment,Yes,82.3
+Park Street,700016,1440,3,3,10,5,Furnished,0.7,22.5557,88.3514,2,No,Apartment,Yes,109.7
+Salt Lake (Bidhannagar),700064,1560,3,3,12,4,Furnished,1.2,22.5887,88.4184,2,No,Apartment,Yes,107.64
+Shyambazar,700004,1020,2,2,5,12,Unfurnished,0.6,22.6043,88.3737,1,No,Apartment,Yes,62.83
+Tollygunge,700033,1390,3,3,11,6,Furnished,1.0,22.5013,88.3507,2,Yes,Apartment,Yes,95.25
+Baranagar,700090,1090,2,2,4,13,Furnished,2.3,22.6624,88.3691,2,Yes,Apartment,No,66.49
+Behala,700060,1360,3,2,7,11,Unfurnished,2.5,22.488,88.3047,3,Yes,Independent House,Yes,81.87
+Ballygunge,700020,1490,3,3,12,5,Furnished,1.1,22.5248,88.3658,2,No,Apartment,Yes,104.6
+Howrah (Shalimar),711102,1290,3,2,7,9,Unfurnished,3.5,22.5828,88.3128,3,Yes,Apartment,Yes,76.11
+Dumdum,700055,1400,3,3,8,8,Furnished,1.2,22.6317,88.4222,2,Yes,Apartment,No,88.48
+Garia,700047,1020,2,2,3,16,Unfurnished,1.9,22.4647,88.3922,3,Yes,Apartment,Yes,62.02
+Esplanade,700069,810,1,1,3,18,Unfurnished,0.7,22.5691,88.3528,0,Yes,Apartment,No,59.06
+Jadavpur,700032,1170,2,2,5,12,Furnished,1.6,22.4952,88.3734,1,Yes,Independent House,Yes,72.54
+Lake Town,700089,870,2,1,4,17,Unfurnished,0.9,22.6074,88.4062,1,No,Apartment,Yes,53.59
+Rajarhat,700135,1520,3,3,11,6,Furnished,2.0,22.5988,88.4745,2,No,Apartment,Yes,99.71
+Salt Lake (Bidhannagar),700106,1610,3,3,13,3,Furnished,1.0,22.5965,88.4096,1,Yes,Apartment,Yes,111.83
+Tollygunge,700033,1380,3,3,11,7,Furnished,1.1,22.5014,88.3508,2,No,Apartment,Yes,94.27
+Baranagar,700108,1290,3,2,7,10,Unfurnished,2.5,22.6682,88.3688,2,Yes,Independent House,No,79.98
+Behala,700008,1250,3,2,6,12,Unfurnished,2.8,22.4867,88.3006,2,Yes,Independent House,Yes,74.5
+Ballygunge,700019,1530,3,3,13,4,Furnished,1.2,22.5254,88.3653,2,Yes,Apartment,Yes,107.1
+Dumdum,700055,1090,2,2,5,14,Unfurnished,1.3,22.6312,88.4235,1,No,Independent House,Yes,67.16
+Garia,700047,1050,2,2,3,16,Unfurnished,1.7,22.4659,88.3921,2,No,Apartment,Yes,63.63
+Howrah (Shalimar),711102,1250,3,2,6,10,Unfurnished,3.6,22.5853,88.3112,3,No,Apartment,Yes,73.21
+Shyambazar,700004,1000,2,1,3,14,Unfurnished,0.7,22.6047,88.3727,1,No,Apartment,No,61.0
+Park Street,700016,1560,3,3,14,3,Furnished,0.9,22.5538,88.3522,2,Yes,Apartment,No,119.81
+New Town,700156,1250,3,2,7,9,Unfurnished,2.4,22.5849,88.4891,3,No,Apartment,Yes,81.0
+Salt Lake (Bidhannagar),700106,1590,3,3,12,3,Furnished,1.0,22.5966,88.4097,2,Yes,Apartment,Yes,109.71
+Rajarhat,700135,1430,3,3,9,7,Furnished,2.0,22.5983,88.4749,1,Yes,Apartment,Yes,94.38
+Tollygunge,700033,1370,3,3,11,6,Furnished,1.0,22.5015,88.3509,2,No,Apartment,No,94.08
+Lake Town,700089,900,2,1,4,18,Unfurnished,1.0,22.6084,88.4073,1,Yes,Apartment,Yes,55.98
+Baranagar,700035,1340,3,2,6,11,Unfurnished,2.2,22.662,88.3686,2,Yes,Apartment,Yes,83.31
+Behala,700063,1370,3,2,7,10,Furnished,2.7,22.4869,88.3024,2,Yes,Apartment,No,83.4
+Ballygunge,700019,1440,3,3,11,6,Furnished,1.0,22.5241,88.3654,1,Yes,Apartment,No,100.8
+Dumdum,700056,1160,2,2,5,12,Unfurnished,1.4,22.6303,88.4239,2,Yes,Apartment,Yes,73.08
+Esplanade,700069,860,1,1,3,17,Unfurnished,0.6,22.5697,88.3522,1,Yes,Apartment,Yes,62.61
+Garia,700084,1140,2,2,4,11,Unfurnished,1.9,22.4617,88.3958,1,Yes,Independent House,Yes,69.77
+Howrah (Shalimar),711103,1220,3,2,6,9,Unfurnished,3.7,22.584,88.3123,2,No,Apartment,Yes,72.22
+Jadavpur,700032,1110,2,2,4,13,Furnished,1.5,22.4948,88.3735,0,Yes,Apartment,Yes,69.04
+Lake Town,700089,915,2,1,4,17,Unfurnished,1.0,22.6085,88.4074,0,Yes,Apartment,Yes,57.06
+New Town,700156,1530,3,3,12,5,Furnished,2.2,22.5859,88.4882,2,Yes,Apartment,Yes,104.04
+Rajarhat,700135,1280,3,2,8,10,Unfurnished,2.0,22.5979,88.4754,2,No,Apartment,Yes,83.2
+Park Street,700016,1450,3,3,10,5,Furnished,0.7,22.5558,88.3515,3,Yes,Apartment,Yes,111.07
+Salt Lake (Bidhannagar),700064,1570,3,3,12,4,Furnished,1.2,22.5888,88.4185,3,Yes,Apartment,Yes,108.84
+Shyambazar,700004,1030,2,2,5,12,Unfurnished,0.6,22.6044,88.3738,0,No,Apartment,No,63.65
+Tollygunge,700033,1400,3,3,11,6,Furnished,1.0,22.5016,88.351,2,No,Apartment,Yes,96.64
+Baranagar,700090,1100,2,2,4,13,Furnished,2.3,22.6625,88.3692,1,Yes,Independent House,No,67.32
+Behala,700060,1370,3,2,7,11,Unfurnished,2.5,22.4881,88.3048,3,Yes,Apartment,Yes,82.95
+Ballygunge,700020,1500,3,3,12,5,Furnished,1.1,22.5249,88.3659,1,Yes,Apartment,Yes,105.6
+Howrah (Shalimar),711102,1300,3,2,7,9,Unfurnished,3.5,22.5829,88.3129,2,Yes,Independent House,Yes,77.06
+Dumdum,700055,1410,3,3,8,8,Furnished,1.2,22.6318,88.4223,3,Yes,Apartment,Yes,89.09
+Garia,700047,1030,2,2,3,16,Unfurnished,1.9,22.4648,88.3923,0,Yes,Apartment,Yes,63.03
+Esplanade,700069,815,1,1,3,18,Unfurnished,0.7,22.5692,88.3529,0,Yes,Apartment,Yes,59.45
+Jadavpur,700032,1180,2,2,5,12,Furnished,1.6,22.4953,88.3735,1,Yes,Apartment,Yes,73.4
+Lake Town,700089,875,2,1,4,17,Unfurnished,0.9,22.6075,88.4063,1,Yes,Independent House,Yes,54.08
+Rajarhat,700135,1530,3,3,11,6,Furnished,2.0,22.5989,88.4746,3,Yes,Apartment,Yes,100.67
+Salt Lake (Bidhannagar),700106,1620,3,3,13,3,Furnished,1.0,22.5967,88.4098,2,Yes,Apartment,Yes,112.75
+Tollygunge,700033,1390,3,3,11,7,Furnished,1.1,22.5017,88.3511,1,No,Apartment,Yes,95.25
+Jadavpur,700032,1120,2,2,4,13,Furnished,1.5,22.4949,88.3736,2,Yes,Apartment,Yes,69.89
+Lake Town,700089,920,2,1,4,17,Unfurnished,1.0,22.6086,88.4075,1,Yes,Independent House,Yes,57.72
+New Town,700156,1540,3,3,12,5,Furnished,2.2,22.586,88.4883,3,No,Apartment,Yes,105.03
+Rajarhat,700135,1290,3,2,8,10,Unfurnished,2.0,22.598,88.4755,2,Yes,Independent House,Yes,84.11
+Park Street,700016,1460,3,3,10,5,Furnished,0.7,22.5559,88.3516,2,Yes,Apartment,Yes,112.13
+Salt Lake (Bidhannagar),700064,1580,3,3,12,4,Furnished,1.2,22.5889,88.4186,3,Yes,Apartment,Yes,109.65
+Shyambazar,700004,1040,2,2,5,12,Unfurnished,0.6,22.6045,88.3739,2,No,Apartment,Yes,64.27
+Tollygunge,700033,1410,3,3,11,6,Furnished,1.0,22.5018,88.3512,2,Yes,Apartment,Yes,97.29
+Baranagar,700090,1110,2,2,4,13,Furnished,2.3,22.6626,88.3693,0,Yes,Apartment,Yes,68.09
+Behala,700060,1380,3,2,7,11,Unfurnished,2.5,22.4882,88.3049,3,Yes,Apartment,Yes,83.63
+Ballygunge,700020,1510,3,3,12,5,Furnished,1.1,22.525,88.366,2,Yes,Apartment,No,106.71
+Howrah (Shalimar),711102,1310,3,2,7,9,Unfurnished,3.5,22.583,88.313,2,Yes,Apartment,No,77.9
+Dumdum,700055,1420,3,3,8,8,Furnished,1.2,22.6319,88.4224,1,No,Apartment,Yes,90.31
+Garia,700047,1040,2,2,3,16,Unfurnished,1.9,22.4649,88.3924,1,No,Apartment,Yes,63.65
+Esplanade,700069,820,1,1,3,18,Unfurnished,0.7,22.5693,88.353,0,No,Independent House,Yes,60.02
+Jadavpur,700032,1190,2,2,5,12,Furnished,1.6,22.4954,88.3736,0,Yes,Apartment,Yes,74.26
+Lake Town,700089,880,2,1,4,17,Unfurnished,0.9,22.6076,88.4064,2,Yes,Apartment,Yes,54.56
+Rajarhat,700135,1540,3,3,11,6,Furnished,2.0,22.599,88.4747,2,Yes,Apartment,Yes,101.64
+Salt Lake (Bidhannagar),700106,1630,3,3,13,3,Furnished,1.0,22.5968,88.4099,2,Yes,Apartment,Yes,113.77
+Tollygunge,700033,1400,3,3,11,7,Furnished,1.1,22.5019,88.3513,3,No,Apartment,Yes,96.32
+Baranagar,700108,1300,3,2,7,10,Unfurnished,2.5,22.6683,88.3689,2,Yes,Apartment,No,80.86
+Behala,700008,1260,3,2,6,12,Unfurnished,2.8,22.4868,88.3007,2,Yes,Apartment,No,75.35
+Ballygunge,700019,1540,3,3,13,4,Furnished,1.2,22.5255,88.3654,2,No,Apartment,Yes,108.31
+Dumdum,700055,1100,2,2,5,14,Unfurnished,1.3,22.6313,88.4236,1,Yes,Independent House,Yes,68.2
+Garia,700047,1060,2,2,3,16,Unfurnished,1.7,22.466,88.3922,2,Yes,Apartment,Yes,64.45
+Howrah (Shalimar),711102,1260,3,2,6,10,Unfurnished,3.6,22.5854,88.3113,2,Yes,Apartment,Yes,73.97
+Shyambazar,700004,1010,2,1,3,14,Unfurnished,0.7,22.6048,88.3728,1,Yes,Independent House,No,61.77
+Park Street,700016,1570,3,3,14,3,Furnished,0.9,22.5539,88.3523,3,No,Apartment,Yes,120.89
+New Town,700156,1260,3,2,7,9,Unfurnished,2.4,22.585,88.4892,2,Yes,Apartment,Yes,81.9
+Salt Lake (Bidhannagar),700106,1600,3,3,12,3,Furnished,1.0,22.5969,88.41,1,No,Apartment,Yes,110.72
+Rajarhat,700135,1440,3,3,9,7,Furnished,2.0,22.5984,88.475,3,No,Apartment,Yes,95.33
+Tollygunge,700033,1380,3,3,11,6,Furnished,1.0,22.502,88.3514,4,No,Apartment,Yes,95.14
+Lake Town,700089,905,2,1,4,18,Unfurnished,1.0,22.6087,88.4076,1,Yes,Apartment,Yes,56.47
+Baranagar,700035,1350,3,2,6,11,Unfurnished,2.2,22.6621,88.3687,1,Yes,Apartment,No,84.0
+Behala,700063,1380,3,2,7,10,Furnished,2.7,22.487,88.3025,2,No,Apartment,Yes,84.18
+Ballygunge,700019,1450,3,3,11,6,Furnished,1.0,22.5242,88.3655,2,Yes,Apartment,Yes,101.79
+Dumdum,700056,1170,2,2,5,12,Unfurnished,1.4,22.6304,88.424,1,Yes,Apartment,Yes,73.94
+Esplanade,700069,865,1,1,3,17,Unfurnished,0.6,22.5698,88.3523,0,Yes,Apartment,Yes,63.1
+Garia,700084,1150,2,2,4,11,Unfurnished,1.9,22.4618,88.3959,2,Yes,Apartment,Yes,70.61
+Howrah (Shalimar),711103,1230,3,2,6,9,Unfurnished,3.7,22.5841,88.3124,3,No,Apartment,Yes,73.06
+Jadavpur,700032,1130,2,2,4,13,Furnished,1.5,22.495,88.3737,0,No,Independent House,Yes,70.64
+Lake Town,700089,930,2,1,4,17,Unfurnished,1.0,22.6088,88.4077,2,Yes,Apartment,Yes,58.4
+New Town,700156,1550,3,3,12,5,Furnished,2.2,22.5861,88.4884,4,Yes,Apartment,Yes,106.02
+Rajarhat,700135,1300,3,2,8,10,Unfurnished,2.0,22.5981,88.4756,2,No,Apartment,Yes,85.02
+Park Street,700016,1470,3,3,10,5,Furnished,0.7,22.556,88.3517,2,Yes,Apartment,No,113.19
+Salt Lake (Bidhannagar),700064,1590,3,3,12,4,Furnished,1.2,22.589,88.4187,2,Yes,Apartment,No,110.66
+Shyambazar,700004,1050,2,2,5,12,Unfurnished,0.6,22.6046,88.374,2,No,Apartment,Yes,65.1
+Tollygunge,700033,1420,3,3,11,6,Furnished,1.0,22.5021,88.3515,1,Yes,Apartment,Yes,98.06
+Baranagar,700090,1120,2,2,4,13,Furnished,2.3,22.6627,88.3694,1,Yes,Apartment,Yes,69.0
+Behala,700060,1390,3,2,7,11,Unfurnished,2.5,22.4883,88.305,2,Yes,Apartment,No,84.31
+Ballygunge,700020,1520,3,3,12,5,Furnished,1.1,22.5251,88.3661,3,Yes,Apartment,Yes,107.01
+Howrah (Shalimar),711105,1280,3,2,6,10,Unfurnished,3.8,22.5825,88.314,2,Yes,Apartment,Yes,75.52
+Dumdum,700056,1190,2,2,5,12,Unfurnished,1.4,22.631,88.4239,2,Yes,Independent House,Yes,75.45
+Garia,700084,1160,2,2,4,11,Unfurnished,1.9,22.462,88.396,0,Yes,Apartment,No,71.46
+Esplanade,700069,880,1,1,3,17,Unfurnished,0.6,22.5695,88.3529,1,Yes,Apartment,Yes,64.59
+Jadavpur,700032,1140,2,2,4,13,Furnished,1.5,22.4948,88.3738,1,No,Apartment,Yes,71.59
+Lake Town,700089,940,2,1,4,17,Unfurnished,1.0,22.6089,88.4078,1,Yes,Apartment,Yes,59.22
+Rajarhat,700135,1560,3,3,12,5,Furnished,2.1,22.5982,88.4757,2,Yes,Apartment,Yes,107.02
+Salt Lake (Bidhannagar),700106,1640,3,3,13,3,Furnished,1.0,22.597,88.4101,3,Yes,Apartment,No,114.8
+Tollygunge,700033,1430,3,3,11,6,Furnished,1.0,22.5022,88.3516,2,Yes,Apartment,Yes,99.24
+Baranagar,700108,1310,3,2,7,10,Unfurnished,2.5,22.6684,88.369,1,Yes,Apartment,Yes,81.74
+Behala,700008,1270,3,2,6,12,Unfurnished,2.8,22.4869,88.3008,2,Yes,Apartment,Yes,76.2
+Ballygunge,700019,1550,3,3,13,4,Furnished,1.2,22.5256,88.3655,2,No,Apartment,Yes,109.12
+Dumdum,700055,1110,2,2,5,14,Unfurnished,1.3,22.6314,88.4237,1,No,Apartment,Yes,69.04
+Garia,700047,1070,2,2,3,16,Unfurnished,1.7,22.4661,88.3923,1,No,Apartment,Yes,65.27
+Howrah (Shalimar),711114,1250,3,2,6,9,Unfurnished,3.9,22.5835,88.3135,1,No,Independent House,No,74.5
+Shyambazar,700004,1020,2,1,3,14,Unfurnished,0.7,22.6049,88.3729,0,No,Apartment,Yes,62.71
+Park Street,700016,1580,3,3,14,3,Furnished,0.9,22.554,88.3524,3,Yes,Apartment,Yes,121.98
+New Town,700156,1270,3,2,7,9,Unfurnished,2.5,22.5851,88.4893,2,Yes,Apartment,Yes,82.8
+Salt Lake (Bidhannagar),700064,1610,3,3,12,4,Furnished,1.2,22.5891,88.4188,1,Yes,Apartment,Yes,111.83
+Rajarhat,700135,1450,3,3,9,7,Furnished,2.0,22.5985,88.4751,3,No,Apartment,Yes,96.28
+Tollygunge,700033,1390,3,3,11,6,Furnished,1.0,22.5023,88.3517,2,Yes,Apartment,Yes,96.21
+Lake Town,700089,910,2,1,4,18,Unfurnished,1.0,22.608,88.4073,1,Yes,Apartment,Yes,56.97
+Baranagar,700035,1360,3,2,6,11,Unfurnished,2.2,22.6622,88.3688,1,No,Apartment,Yes,85.14
+Behala,700061,1390,3,2,7,10,Furnished,2.7,22.4871,88.3026,3,Yes,Apartment,Yes,85.07
+Ballygunge,700019,1460,3,3,11,6,Furnished,1.0,22.5243,88.3656,2,No,Apartment,Yes,102.78
+Dumdum,700056,1180,2,2,5,12,Unfurnished,1.4,22.6305,88.4241,3,Yes,Apartment,Yes,74.85
+Esplanade,700069,870,1,1,3,17,Unfurnished,0.6,22.5699,88.3524,0,Yes,Independent House,Yes,63.8
+Garia,700084,1165,2,2,4,11,Unfurnished,1.9,22.4619,88.3958,1,No,Apartment,No,71.97
+Howrah (Shalimar),711103,1240,3,2,6,9,Unfurnished,3.7,22.5842,88.3125,2,Yes,Independent House,Yes,73.9
+Jadavpur,700032,1135,2,2,4,13,Furnished,1.5,22.4951,88.3739,2,Yes,Independent House,Yes,71.27
+Lake Town,700089,935,2,1,4,17,Unfurnished,1.0,22.609,88.4079,2,Yes,Apartment,Yes,59.06
+New Town,700156,1560,3,3,12,5,Furnished,2.2,22.5862,88.4885,3,Yes,Apartment,Yes,107.02
+Rajarhat,700135,1310,3,2,8,10,Unfurnished,2.0,22.5983,88.4758,2,Yes,Independent House,Yes,85.94
+Park Street,700016,1480,3,3,10,5,Furnished,0.7,22.5561,88.3518,2,No,Apartment,Yes,114.55
+Salt Lake (Bidhannagar),700064,1600,3,3,12,4,Furnished,1.2,22.5892,88.4189,2,Yes,Apartment,Yes,111.68
+Shyambazar,700004,1055,2,2,5,12,Unfurnished,0.6,22.6047,88.3741,2,No,Apartment,Yes,65.66
+Tollygunge,700033,1435,3,3,11,6,Furnished,1.0,22.5024,88.3518,3,Yes,Apartment,Yes,99.88
+Baranagar,700090,1125,2,2,4,13,Furnished,2.3,22.6628,88.3695,1,Yes,Apartment,Yes,69.45
+Behala,700060,1395,3,2,7,11,Unfurnished,2.5,22.4884,88.3051,2,Yes,Independent House,Yes,85.05
+Ballygunge,700020,1530,3,3,12,5,Furnished,1.1,22.5252,88.3662,2,Yes,Apartment,Yes,107.91
+Howrah (Shalimar),711102,1290,3,2,6,10,Unfurnished,3.6,22.5831,88.3114,2,Yes,Independent House,Yes,76.37
+Dumdum,700055,1125,2,2,5,14,Unfurnished,1.3,22.6315,88.4238,2,No,Apartment,Yes,70.2
+Garia,700047,1080,2,2,3,16,Unfurnished,1.7,22.4662,88.3925,0,Yes,Apartment,Yes,65.9
+Esplanade,700069,890,1,1,3,17,Unfurnished,0.6,22.57,88.3525,0,No,Apartment,Yes,65.5
+Jadavpur,700032,1145,2,2,4,13,Furnished,1.5,22.4952,88.374,1,No,Independent House,Yes,72.14
+Lake Town,700089,945,2,1,4,17,Unfurnished,1.0,22.6091,88.408,0,Yes,Independent House,No,59.97
+Rajarhat,700135,1570,3,3,12,5,Furnished,2.1,22.5986,88.4759,2,Yes,Apartment,Yes,108.24
+Salt Lake (Bidhannagar),700106,1650,3,3,13,3,Furnished,1.0,22.5971,88.4102,2,Yes,Apartment,Yes,115.83
+Tollygunge,700033,1440,3,3,11,6,Furnished,1.0,22.5025,88.3519,2,No,Apartment,No,100.51
+Ballygunge,700019,1540,3,3,12,5,Furnished,1.1,22.5254,88.3663,3,Yes,Apartment,Yes,109.03
+Howrah (Shalimar),711105,1260,3,2,6,9,Unfurnished,3.8,22.5829,88.3141,2,No,Apartment,Yes,74.84
+Dumdum,700056,1200,2,2,5,12,Unfurnished,1.4,22.6312,88.424,1,Yes,Apartment,Yes,76.56
+Garia,700084,1170,2,2,4,11,Unfurnished,1.9,22.4622,88.3961,1,Yes,Apartment,Yes,72.54
+Esplanade,700069,890,1,1,3,17,Unfurnished,0.6,22.5696,88.353,1,No,Apartment,Yes,65.58
+Jadavpur,700032,1150,2,2,4,13,Furnished,1.5,22.4949,88.3739,1,Yes,Apartment,Yes,72.68
+Lake Town,700089,950,2,1,4,17,Unfurnished,1.0,22.6092,88.4079,1,No,Apartment,Yes,60.42
+Rajarhat,700135,1580,3,3,12,5,Furnished,2.1,22.5987,88.4758,3,Yes,Apartment,Yes,109.02
+Salt Lake (Bidhannagar),700106,1660,3,3,13,3,Furnished,1.0,22.5972,88.4102,2,No,Apartment,Yes,116.86
+Tollygunge,700033,1450,3,3,11,6,Furnished,1.0,22.5026,88.352,3,Yes,Apartment,Yes,101.5
+Baranagar,700108,1320,3,2,7,10,Unfurnished,2.5,22.6685,88.3691,2,Yes,Apartment,Yes,82.63
+Behala,700008,1280,3,2,6,12,Unfurnished,2.8,22.487,88.3009,3,Yes,Apartment,Yes,77.06
+Ballygunge,700020,1560,3,3,13,4,Furnished,1.2,22.5257,88.3657,2,Yes,Apartment,Yes,110.14
+Dumdum,700055,1120,2,2,5,14,Unfurnished,1.3,22.6313,88.4239,1,Yes,Apartment,No,69.89
+Garia,700047,1085,2,2,3,16,Unfurnished,1.7,22.4663,88.3924,1,Yes,Apartment,Yes,66.6
+Howrah (Shalimar),711114,1265,3,2,6,9,Unfurnished,3.9,22.5836,88.3136,1,Yes,Apartment,Yes,75.66
+Shyambazar,700004,1030,2,1,3,14,Unfurnished,0.7,22.605,88.373,0,No,Apartment,Yes,63.55
+Park Street,700016,1590,3,3,14,3,Furnished,0.9,22.5541,88.3525,3,No,Apartment,Yes,123.38
+New Town,700156,1280,3,2,7,9,Unfurnished,2.5,22.5852,88.4894,2,No,Apartment,Yes,83.71
+Salt Lake (Bidhannagar),700064,1620,3,3,12,4,Furnished,1.2,22.5892,88.4189,2,Yes,Apartment,No,112.75
+Rajarhat,700135,1460,3,3,9,7,Furnished,2.0,22.5985,88.4752,2,Yes,Apartment,Yes,97.24
+Tollygunge,700033,1400,3,3,11,6,Furnished,1.0,22.5023,88.3517,3,Yes,Apartment,Yes,96.88
+Lake Town,700089,915,2,1,4,18,Unfurnished,1.0,22.6081,88.4074,0,No,Apartment,No,57.48
+Baranagar,700035,1370,3,2,6,11,Unfurnished,2.2,22.6623,88.3689,1,No,Independent House,Yes,86.03
+Behala,700061,1400,3,2,7,10,Furnished,2.7,22.4872,88.3027,2,No,Apartment,No,85.96
+Ballygunge,700019,1470,3,3,11,6,Furnished,1.0,22.5244,88.3657,3,Yes,Apartment,Yes,103.78
+Dumdum,700056,1190,2,2,5,12,Unfurnished,1.4,22.6306,88.4242,1,Yes,Apartment,Yes,75.98
+Esplanade,700069,875,1,1,3,17,Unfurnished,0.6,22.5697,88.3526,1,Yes,Apartment,No,64.38
+Garia,700084,1175,2,2,4,11,Unfurnished,1.9,22.4623,88.3959,0,Yes,Apartment,Yes,72.85
+Howrah (Shalimar),711103,1245,3,2,6,9,Unfurnished,3.7,22.5843,88.3126,1,Yes,Apartment,Yes,74.5
+Jadavpur,700032,1140,2,2,4,13,Furnished,1.5,22.495,88.374,1,Yes,Apartment,Yes,72.05
+Lake Town,700089,940,2,1,4,17,Unfurnished,1.0,22.6092,88.4079,1,Yes,Apartment,Yes,59.41
+New Town,700156,1570,3,3,12,5,Furnished,2.2,22.5863,88.4886,3,Yes,Apartment,Yes,108.22
+Rajarhat,700135,1320,3,2,8,10,Unfurnished,2.0,22.5984,88.4759,2,Yes,Apartment,Yes,86.86
+Park Street,700016,1490,3,3,10,5,Furnished,0.7,22.5562,88.3519,2,No,Apartment,Yes,115.88
+Salt Lake (Bidhannagar),700064,1615,3,3,12,4,Furnished,1.2,22.5893,88.419,2,Yes,Apartment,Yes,112.68
+Shyambazar,700004,1050,2,2,5,12,Unfurnished,0.6,22.6048,88.3742,2,No,Independent House,Yes,65.52
+Tollygunge,700033,1440,3,3,11,6,Furnished,1.0,22.5025,88.3519,3,Yes,Apartment,Yes,100.51
+Baranagar,700090,1130,2,2,4,13,Furnished,2.3,22.6629,88.3696,0,No,Independent House,Yes,69.86
+Behala,700060,1405,3,2,7,11,Unfurnished,2.5,22.4885,88.3052,1,Yes,Apartment,Yes,85.98
+Ballygunge,700020,1545,3,3,12,5,Furnished,1.1,22.5253,88.3664,3,Yes,Apartment,Yes,109.5
+Howrah (Shalimar),711102,1295,3,2,6,10,Unfurnished,3.6,22.5832,88.3115,3,Yes,Apartment,Yes,76.96
+Dumdum,700055,1130,2,2,5,14,Unfurnished,1.3,22.6316,88.4239,1,Yes,Apartment,Yes,70.74
+Garia,700047,1090,2,2,3,16,Unfurnished,1.7,22.4664,88.3926,0,Yes,Apartment,Yes,66.94
+Esplanade,700069,895,1,1,3,17,Unfurnished,0.6,22.5701,88.3526,0,Yes,Independent House,Yes,66.3
+Jadavpur,700032,1155,2,2,4,13,Furnished,1.5,22.4953,88.3741,2,Yes,Apartment,Yes,73.16
+Lake Town,700089,955,2,1,4,17,Unfurnished,1.0,22.6093,88.408,2,Yes,Independent House,No,60.92
+Rajarhat,700135,1590,3,3,12,5,Furnished,2.1,22.5988,88.4759,3,Yes,Apartment,No,110.03
+Salt Lake (Bidhannagar),700106,1670,3,3,13,3,Furnished,1.0,22.5973,88.4103,2,Yes,Apartment,Yes,117.9
+Tollygunge,700033,1455,3,3,11,6,Furnished,1.0,22.5027,88.352,2,Yes,Apartment,No,102.22
+Baranagar,700108,1330,3,2,7,10,Unfurnished,2.5,22.6686,88.3692,2,No,Independent House,No,83.52
+Behala,700008,1290,3,2,6,12,Unfurnished,2.8,22.4871,88.301,2,Yes,Independent House,Yes,77.92
+Ballygunge,700019,1570,3,3,13,4,Furnished,1.2,22.5258,88.3658,2,Yes,Apartment,Yes,111.16
+Dumdum,700056,1205,2,2,5,12,Unfurnished,1.4,22.6307,88.4243,3,No,Apartment,Yes,77.12
+Garia,700084,1180,2,2,4,11,Unfurnished,1.9,22.4624,88.3962,2,Yes,Apartment,Yes,73.32
+Howrah (Shalimar),711114,1270,3,2,6,9,Unfurnished,3.9,22.5837,88.3137,3,Yes,Apartment,Yes,76.2
+Shyambazar,700004,1040,2,1,3,14,Unfurnished,0.7,22.6051,88.3731,1,Yes,Apartment,Yes,64.39
+Park Street,700016,1600,3,3,14,3,Furnished,0.9,22.5542,88.3526,3,Yes,Apartment,Yes,124.48
+New Town,700156,1290,3,2,7,9,Unfurnished,2.5,22.5853,88.4895,3,Yes,Apartment,No,84.62
+Salt Lake (Bidhannagar),700064,1630,3,3,12,4,Furnished,1.2,22.5894,88.4191,2,No,Apartment,Yes,114.1
+Rajarhat,700135,1470,3,3,9,7,Furnished,2.0,22.5986,88.4753,3,Yes,Apartment,Yes,98.2
+Tollygunge,700033,1410,3,3,11,6,Furnished,1.0,22.5024,88.3518,3,Yes,Apartment,Yes,97.85
+Lake Town,700089,920,2,1,4,18,Unfurnished,1.0,22.6082,88.4075,2,Yes,Apartment,Yes,57.96
+Baranagar,700035,1380,3,2,6,11,Unfurnished,2.2,22.6624,88.369,3,Yes,Apartment,Yes,86.94
+Behala,700061,1410,3,2,7,10,Furnished,2.7,22.4873,88.3028,2,Yes,Apartment,Yes,86.86
+Ballygunge,700019,1480,3,3,11,6,Furnished,1.0,22.5245,88.3658,1,Yes,Apartment,Yes,104.78
+Dumdum,700056,1200,2,2,5,12,Unfurnished,1.4,22.6308,88.4243,1,Yes,Apartment,Yes,76.8
+Esplanade,700069,880,1,1,3,17,Unfurnished,0.6,22.5698,88.3527,0,Yes,Apartment,Yes,64.77
+Garia,700084,1180,2,2,4,11,Unfurnished,1.9,22.4625,88.396,0,Yes,Apartment,Yes,73.32
+Howrah (Shalimar),711103,1250,3,2,6,9,Unfurnished,3.7,22.5844,88.3127,3,Yes,Apartment,Yes,75.0
+Jadavpur,700032,1145,2,2,4,13,Furnished,1.5,22.4951,88.3741,2,Yes,Apartment,Yes,72.61
+Lake Town,700089,945,2,1,4,17,Unfurnished,1.0,22.6093,88.408,2,Yes,Apartment,Yes,59.76
+New Town,700156,1580,3,3,12,5,Furnished,2.2,22.5864,88.4887,2,Yes,Apartment,Yes,109.02
+Rajarhat,700135,1330,3,2,8,10,Unfurnished,2.0,22.5985,88.476,3,Yes,Independent House,Yes,87.78
+Park Street,700016,1500,3,3,10,5,Furnished,0.7,22.5563,88.352,2,Yes,Apartment,Yes,117.0
+Salt Lake (Bidhannagar),700064,1625,3,3,12,4,Furnished,1.2,22.5895,88.4192,2,Yes,Apartment,Yes,114.18
+Shyambazar,700004,1055,2,2,5,12,Unfurnished,0.6,22.6049,88.3743,0,No,Apartment,Yes,66.05
+Tollygunge,700033,1445,3,3,11,6,Furnished,1.0,22.5025,88.352,2,Yes,Apartment,Yes,100.3
+Baranagar,700090,1135,2,2,4,13,Furnished,2.3,22.663,88.3697,1,Yes,Apartment,No,70.65
+Behala,700060,1415,3,2,7,11,Unfurnished,2.5,22.4886,88.3053,1,No,Apartment,Yes,86.91
+Ballygunge,700020,1550,3,3,12,5,Furnished,1.1,22.5254,88.3665,2,Yes,Apartment,Yes,110.05
+Howrah (Shalimar),711102,1300,3,2,6,10,Unfurnished,3.6,22.5833,88.3116,2,Yes,Apartment,Yes,77.57
+Dumdum,700055,1135,2,2,5,14,Unfurnished,1.3,22.6317,88.424,2,Yes,Apartment,Yes,71.23
+Garia,700047,1095,2,2,3,16,Unfurnished,1.7,22.4665,88.3927,2,Yes,Apartment,Yes,67.61
+Esplanade,700069,900,1,1,3,17,Unfurnished,0.6,22.5702,88.3527,0,No,Independent House,Yes,66.78
+Jadavpur,700032,1160,2,2,4,13,Furnished,1.5,22.4954,88.3742,1,No,Apartment,Yes,73.78
+Lake Town,700089,960,2,1,4,17,Unfurnished,1.0,22.6094,88.4081,1,No,Apartment,Yes,61.44
+Rajarhat,700135,1600,3,3,12,5,Furnished,2.1,22.5989,88.476,2,Yes,Apartment,Yes,111.16
+Salt Lake (Bidhannagar),700106,1680,3,3,13,3,Furnished,1.0,22.5974,88.4104,1,Yes,Apartment,Yes,118.94
+Tollygunge,700033,1460,3,3,11,6,Furnished,1.0,22.5028,88.3521,2,Yes,Apartment,Yes,102.78
+Baranagar,700108,1340,3,2,7,10,Unfurnished,2.5,22.6687,88.3693,2,Yes,Apartment,Yes,84.42
+Behala,700008,1300,3,2,6,12,Unfurnished,2.8,22.4872,88.3011,1,Yes,Apartment,Yes,78.36
+Ballygunge,700019,1580,3,3,13,4,Furnished,1.2,22.5259,88.3659,3,Yes,Apartment,Yes,111.8
+Dumdum,700056,1210,2,2,5,12,Unfurnished,1.4,22.6309,88.4244,1,No,Independent House,Yes,77.68
+Garia,700084,1190,2,2,4,11,Unfurnished,1.9,22.4626,88.3963,0,Yes,Apartment,No,74.26
+Howrah (Shalimar),711114,1280,3,2,6,9,Unfurnished,3.9,22.5838,88.3138,2,Yes,Apartment,Yes,77.06
+Shyambazar,700004,1060,2,1,3,14,Unfurnished,0.7,22.6052,88.3732,2,Yes,Apartment,Yes,65.72
+Park Street,700016,1610,3,3,14,3,Furnished,0.9,22.5543,88.3527,3,Yes,Apartment,Yes,125.58
+New Town,700156,1300,3,2,7,9,Unfurnished,2.5,22.5854,88.4896,3,Yes,Apartment,Yes,85.61
+Salt Lake (Bidhannagar),700064,1640,3,3,12,4,Furnished,1.2,22.5896,88.4193,2,Yes,Apartment,Yes,115.13
+Ballygunge,700019,1590,3,3,12,4,Furnished,1.1,22.5255,88.3666,2,Yes,Apartment,Yes,113.21
+Howrah (Shalimar),711105,1270,3,2,6,9,Unfurnished,3.8,22.583,88.314,1,Yes,Apartment,Yes,76.2
+Dumdum,700056,1220,2,2,5,12,Unfurnished,1.4,22.631,88.4245,1,Yes,Apartment,Yes,78.57
+Garia,700084,1200,2,2,4,11,Unfurnished,1.9,22.4627,88.3964,1,Yes,Apartment,Yes,75.12
+Esplanade,700069,910,1,1,3,17,Unfurnished,0.6,22.5703,88.3528,1,Yes,Apartment,Yes,67.7
+Jadavpur,700032,1170,2,2,4,13,Furnished,1.5,22.4955,88.3743,2,Yes,Apartment,No,74.74
+Lake Town,700089,970,2,1,4,17,Unfurnished,1.0,22.6095,88.4082,1,Yes,Apartment,Yes,62.27
+Rajarhat,700135,1620,3,3,12,5,Furnished,2.1,22.599,88.4761,1,Yes,Apartment,Yes,112.75
+Salt Lake (Bidhannagar),700106,1700,3,3,13,3,Furnished,1.0,22.5975,88.4105,2,No,Apartment,Yes,120.7
+Tollygunge,700033,1470,3,3,11,6,Furnished,1.0,22.5029,88.3522,2,Yes,Apartment,Yes,103.78
+Baranagar,700108,1350,3,2,7,10,Unfurnished,2.5,22.6688,88.3694,2,Yes,Apartment,Yes,85.33
+Behala,700008,1310,3,2,6,12,Unfurnished,2.8,22.4873,88.3012,2,Yes,Apartment,Yes,79.65
+Ballygunge,700020,1595,3,3,13,4,Furnished,1.2,22.526,88.366,2,Yes,Apartment,Yes,113.54
+Dumdum,700055,1140,2,2,5,14,Unfurnished,1.3,22.6318,88.4241,1,Yes,Apartment,Yes,71.82
+Garia,700047,1100,2,2,3,16,Unfurnished,1.7,22.4666,88.3928,1,Yes,Apartment,Yes,68.2
+Howrah (Shalimar),711114,1290,3,2,6,9,Unfurnished,3.9,22.5839,88.3139,2,Yes,Apartment,Yes,77.66
+Shyambazar,700004,1070,2,1,3,14,Unfurnished,0.7,22.6053,88.3733,1,Yes,Apartment,Yes,66.66
+Park Street,700016,1620,3,3,14,3,Furnished,0.9,22.5544,88.3528,2,Yes,Apartment,Yes,126.68
+New Town,700156,1310,3,2,7,9,Unfurnished,2.5,22.5855,88.4897,2,Yes,Apartment,Yes,86.46
+Salt Lake (Bidhannagar),700064,1650,3,3,12,4,Furnished,1.2,22.5897,88.4194,1,No,Apartment,Yes,116.16
+Rajarhat,700135,1480,3,3,9,7,Furnished,2.0,22.5987,88.4754,2,No,Apartment,No,99.16
+Tollygunge,700033,1420,3,3,11,6,Furnished,1.0,22.5026,88.3519,3,Yes,Apartment,Yes,98.83
+Lake Town,700089,925,2,1,4,18,Unfurnished,1.0,22.6083,88.4076,0,Yes,Apartment,Yes,58.39
+Baranagar,700035,1390,3,2,6,11,Unfurnished,2.2,22.6625,88.3691,1,Yes,Apartment,Yes,87.85
+Behala,700061,1420,3,2,7,10,Furnished,2.7,22.4874,88.3029,1,Yes,Apartment,Yes,87.56
+Ballygunge,700019,1490,3,3,11,6,Furnished,1.0,22.5246,88.3659,2,Yes,Apartment,Yes,105.59
+Dumdum,700056,1205,2,2,5,12,Unfurnished,1.4,22.6311,88.4245,1,No,Apartment,No,77.41
+Esplanade,700069,885,1,1,3,17,Unfurnished,0.6,22.5699,88.3528,0,Yes,Apartment,Yes,65.19
+Garia,700084,1195,2,2,4,11,Unfurnished,1.9,22.4628,88.3965,2,Yes,Apartment,Yes,74.66
+Howrah (Shalimar),711103,1255,3,2,6,9,Unfurnished,3.7,22.5845,88.3128,0,Yes,Independent House,Yes,75.55
+Jadavpur,700032,1150,2,2,4,13,Furnished,1.5,22.4956,88.3744,1,No,Apartment,Yes,73.08
+Lake Town,700089,950,2,1,4,17,Unfurnished,1.0,22.6096,88.4083,2,Yes,Apartment,Yes,60.42
+New Town,700156,1590,3,3,12,5,Furnished,2.2,22.5865,88.4888,1,Yes,Apartment,Yes,110.03
+Rajarhat,700135,1340,3,2,8,10,Unfurnished,2.0,22.5986,88.4761,2,Yes,Apartment,Yes,88.71
+Park Street,700016,1510,3,3,10,5,Furnished,0.7,22.5564,88.3521,2,No,Apartment,Yes,118.08
+Salt Lake (Bidhannagar),700064,1635,3,3,12,4,Furnished,1.2,22.5898,88.4195,2,Yes,Apartment,Yes,115.42
+Shyambazar,700004,1065,2,2,5,12,Unfurnished,0.6,22.605,88.3744,1,Yes,Apartment,Yes,66.9
+Tollygunge,700033,1450,3,3,11,6,Furnished,1.0,22.5027,88.3521,3,No,Apartment,Yes,101.79
+Baranagar,700090,1140,2,2,4,13,Furnished,2.3,22.6631,88.3698,2,No,Apartment,Yes,71.14
+Behala,700060,1420,3,2,7,11,Unfurnished,2.5,22.4887,88.3054,2,No,Apartment,Yes,87.07
+Ballygunge,700020,1560,3,3,12,5,Furnished,1.1,22.5256,88.3667,3,No,Apartment,Yes,110.59
+Howrah (Shalimar),711102,1305,3,2,6,10,Unfurnished,3.6,22.5834,88.3117,2,Yes,Apartment,Yes,77.97
+Dumdum,700055,1145,2,2,5,14,Unfurnished,1.3,22.6319,88.4242,2,Yes,Independent House,Yes,72.33
+Garia,700047,1105,2,2,3,16,Unfurnished,1.7,22.4667,88.3929,1,Yes,Apartment,Yes,68.71
+Esplanade,700069,915,1,1,3,17,Unfurnished,0.6,22.5704,88.3529,0,Yes,Apartment,Yes,68.29
+Jadavpur,700032,1175,2,2,4,13,Furnished,1.5,22.4957,88.3745,1,Yes,Apartment,Yes,75.2
+Lake Town,700089,970,2,1,4,17,Unfurnished,1.0,22.6097,88.4084,3,Yes,Independent House,Yes,62.37
+Rajarhat,700135,1630,3,3,12,5,Furnished,2.1,22.5991,88.4762,3,Yes,Apartment,Yes,113.77
+Salt Lake (Bidhannagar),700106,1710,3,3,13,3,Furnished,1.0,22.5976,88.4106,2,Yes,Apartment,Yes,121.75
+Tollygunge,700033,1480,3,3,11,6,Furnished,1.0,22.503,88.3523,3,Yes,Apartment,No,104.78
+Baranagar,700108,1360,3,2,7,10,Unfurnished,2.5,22.6689,88.3695,2,Yes,Apartment,Yes,86.22
+Behala,700008,1320,3,2,6,12,Unfurnished,2.8,22.4874,88.3013,2,Yes,Independent House,Yes,80.52
+Ballygunge,700019,1595,3,3,13,4,Furnished,1.2,22.5261,88.3661,3,Yes,Apartment,Yes,113.39
+Dumdum,700056,1215,2,2,5,12,Unfurnished,1.4,22.6312,88.4246,1,No,Independent House,Yes,77.94
+Garia,700084,1200,2,2,4,11,Unfurnished,1.9,22.4629,88.3966,1,Yes,Apartment,No,75.12
+Howrah (Shalimar),711114,1295,3,2,6,9,Unfurnished,3.9,22.584,88.314,2,Yes,Apartment,Yes,78.26
+Shyambazar,700004,1075,2,1,3,14,Unfurnished,0.7,22.6054,88.3735,1,No,Apartment,Yes,66.93
+Park Street,700016,1630,3,3,14,3,Furnished,0.9,22.5545,88.3529,2,Yes,Apartment,Yes,127.79
+New Town,700156,1320,3,2,7,9,Unfurnished,2.5,22.5856,88.4898,1,Yes,Apartment,Yes,87.08
+Salt Lake (Bidhannagar),700064,1660,3,3,12,4,Furnished,1.2,22.5899,88.4196,3,Yes,Apartment,Yes,117.0
+Rajarhat,700135,1490,3,3,9,7,Furnished,2.0,22.5988,88.4755,2,Yes,Apartment,Yes,100.13
+Tollygunge,700033,1430,3,3,11,6,Furnished,1.0,22.5027,88.352,1,Yes,Apartment,Yes,99.71
+Lake Town,700089,930,2,1,4,18,Unfurnished,1.0,22.6084,88.4077,1,Yes,Apartment,Yes,58.86
+Baranagar,700035,1400,3,2,6,11,Unfurnished,2.2,22.6626,88.3692,2,Yes,Apartment,No,88.76
+Behala,700061,1430,3,2,7,10,Furnished,2.7,22.4875,88.303,2,Yes,Apartment,Yes,88.66
+Ballygunge,700019,1500,3,3,11,6,Furnished,1.0,22.5247,88.366,3,Yes,Apartment,Yes,106.8
+Dumdum,700056,1210,2,2,5,12,Unfurnished,1.4,22.6313,88.4247,0,Yes,Independent House,Yes,77.88
+Esplanade,700069,890,1,1,3,17,Unfurnished,0.6,22.57,88.3529,0,Yes,Apartment,Yes,65.46
+Garia,700084,1200,2,2,4,11,Unfurnished,1.9,22.463,88.3967,1,Yes,Apartment,No,75.12
+Howrah (Shalimar),711103,1260,3,2,6,9,Unfurnished,3.7,22.5846,88.3129,2,Yes,Apartment,Yes,76.22
+Jadavpur,700032,1155,2,2,4,13,Furnished,1.5,22.4958,88.3746,1,Yes,Apartment,Yes,73.44
+Lake Town,700089,960,2,1,4,17,Unfurnished,1.0,22.6098,88.4085,1,No,Independent House,No,60.85
+New Town,700156,1600,3,3,12,5,Furnished,2.2,22.5866,88.4889,3,Yes,Apartment,Yes,111.16
+Rajarhat,700135,1350,3,2,8,10,Unfurnished,2.0,22.5987,88.4762,2,No,Apartment,Yes,89.64
+Park Street,700016,1520,3,3,10,5,Furnished,0.7,22.5565,88.3522,1,No,Apartment,Yes,118.97
+Salt Lake (Bidhannagar),700064,1645,3,3,12,4,Furnished,1.2,22.59,88.4197,1,Yes,Apartment,Yes,116.39
+Shyambazar,700004,1070,2,2,5,12,Unfurnished,0.6,22.6051,88.3746,1,Yes,Apartment,Yes,67.41
+Tollygunge,700033,1455,3,3,11,6,Furnished,1.0,22.5028,88.3522,2,No,Apartment,Yes,102.43
+Baranagar,700090,1145,2,2,4,13,Furnished,2.3,22.6632,88.3699,1,Yes,Apartment,No,71.57
+Behala,700060,1425,3,2,7,11,Unfurnished,2.5,22.4888,88.3055,2,Yes,Apartment,Yes,87.99
+Ballygunge,700020,1565,3,3,12,5,Furnished,1.1,22.5257,88.3668,2,Yes,Apartment,Yes,111.79
+Howrah (Shalimar),711102,1310,3,2,6,10,Unfurnished,3.6,22.5835,88.3118,3,Yes,Apartment,Yes,78.6
+Dumdum,700055,1150,2,2,5,14,Unfurnished,1.3,22.632,88.4243,0,Yes,Apartment,Yes,72.71
+Garia,700047,1110,2,2,3,16,Unfurnished,1.7,22.4668,88.393,0,Yes,Apartment,No,69.26
+Esplanade,700069,920,1,1,3,17,Unfurnished,0.6,22.5705,88.353,0,No,Apartment,Yes,68.82
+Jadavpur,700032,1180,2,2,4,13,Furnished,1.5,22.4959,88.3747,1,Yes,Apartment,Yes,75.76
+Lake Town,700089,980,2,1,4,17,Unfurnished,1.0,22.6099,88.4086,2,Yes,Independent House,Yes,63.11
+Rajarhat,700135,1640,3,3,12,5,Furnished,2.1,22.5992,88.4763,2,Yes,Apartment,Yes,114.8
+Salt Lake (Bidhannagar),700106,1720,3,3,13,3,Furnished,1.0,22.5977,88.4107,1,Yes,Apartment,No,122.81
+Tollygunge,700033,1490,3,3,11,6,Furnished,1.0,22.5031,88.3524,1,Yes,Apartment,Yes,105.39
+Baranagar,700108,1370,3,2,7,10,Unfurnished,2.5,22.669,88.3696,2,Yes,Apartment,Yes,87.13
+Behala,700008,1330,3,2,6,12,Unfurnished,2.8,22.4875,88.3014,2,Yes,Apartment,Yes,81.4
+Ballygunge,700019,1600,3,3,13,4,Furnished,1.2,22.5262,88.3662,2,Yes,Apartment,Yes,114.24
+Dumdum,700056,1220,2,2,5,12,Unfurnished,1.4,22.6314,88.4248,1,Yes,Apartment,Yes,78.81
+Garia,700084,1205,2,2,4,11,Unfurnished,1.9,22.4631,88.3968,1,Yes,Independent House,Yes,75.69
+Howrah (Shalimar),711114,1300,3,2,6,9,Unfurnished,3.9,22.5841,88.3141,3,Yes,Apartment,Yes,78.78
+Shyambazar,700004,1080,2,1,3,14,Unfurnished,0.7,22.6055,88.3736,1,Yes,Apartment,Yes,67.73
+Park Street,700016,1640,3,3,14,3,Furnished,0.9,22.5546,88.353,2,Yes,Apartment,Yes,128.9
+New Town,700156,1330,3,2,7,9,Unfurnished,2.5,22.5857,88.4899,3,No,Apartment,Yes,88.31
+Salt Lake (Bidhannagar),700064,1670,3,3,12,4,Furnished,1.2,22.5901,88.4198,1,Yes,Apartment,Yes,118.24
+Tollygunge,700033,1500,3,3,11,6,Furnished,1.0,22.5032,88.3525,2,Yes,Apartment,Yes,106.8
+Baranagar,700108,1380,3,2,7,10,Unfurnished,2.5,22.6691,88.3697,2,Yes,Apartment,Yes,88.04
+Behala,700008,1340,3,2,6,12,Unfurnished,2.8,22.4876,88.3015,2,Yes,Apartment,Yes,82.28
+Ballygunge,700019,1610,3,3,13,4,Furnished,1.2,22.5263,88.3663,3,Yes,Apartment,Yes,115.38
+Dumdum,700056,1230,2,2,5,12,Unfurnished,1.4,22.6315,88.4249,1,Yes,Apartment,Yes,79.7
+Garia,700084,1210,2,2,4,11,Unfurnished,1.9,22.4632,88.3969,3,Yes,Apartment,No,76.23
+Howrah (Shalimar),711103,1270,3,2,6,9,Unfurnished,3.7,22.5847,88.313,2,Yes,Apartment,Yes,77.06
+Jadavpur,700032,1160,2,2,4,13,Furnished,1.5,22.496,88.3748,0,Yes,Apartment,Yes,74.24
+Lake Town,700089,990,2,1,4,17,Unfurnished,1.0,22.61,88.4087,1,Yes,Apartment,No,64.15
+Rajarhat,700135,1650,3,3,12,5,Furnished,2.1,22.5993,88.4764,2,No,Apartment,Yes,115.83
+Salt Lake (Bidhannagar),700106,1730,3,3,13,3,Furnished,1.0,22.5978,88.4108,2,No,Apartment,Yes,123.97
+Tollygunge,700033,1510,3,3,11,6,Furnished,1.0,22.5033,88.3526,2,Yes,Apartment,Yes,107.51
+Baranagar,700108,1390,3,2,7,10,Unfurnished,2.5,22.6692,88.3698,3,No,Apartment,Yes,88.96
+Behala,700060,1430,3,2,7,11,Unfurnished,2.5,22.4889,88.3056,2,Yes,Apartment,Yes,88.66
+Ballygunge,700020,1570,3,3,12,5,Furnished,1.1,22.5258,88.3669,3,No,Apartment,Yes,112.41
+Dumdum,700055,1160,2,2,5,14,Unfurnished,1.3,22.6321,88.4244,2,No,Apartment,Yes,73.78
+Garia,700047,1115,2,2,3,16,Unfurnished,1.7,22.4669,88.3931,2,Yes,Independent House,Yes,69.85
+Esplanade,700069,925,1,1,3,17,Unfurnished,0.6,22.5706,88.3531,1,Yes,Independent House,Yes,69.38
+Shyambazar,700004,1090,2,1,3,14,Unfurnished,0.7,22.6056,88.3737,2,No,Apartment,No,68.5
+Park Street,700016,1650,3,3,14,3,Furnished,0.9,22.5547,88.3531,1,No,Apartment,Yes,129.82
+New Town,700156,1340,3,2,7,9,Unfurnished,2.5,22.5858,88.49,2,No,Apartment,Yes,89.24
+Salt Lake (Bidhannagar),700064,1680,3,3,12,4,Furnished,1.2,22.5902,88.4199,2,Yes,Apartment,No,119.28
+Rajarhat,700135,1500,3,3,9,7,Furnished,2.0,22.5989,88.4756,2,Yes,Apartment,Yes,101.1
+Tollygunge,700033,1440,3,3,11,6,Furnished,1.0,22.5028,88.3521,2,No,Apartment,Yes,100.8
+Lake Town,700089,940,2,1,4,18,Unfurnished,1.0,22.6085,88.4078,1,No,Apartment,Yes,59.78
+Baranagar,700035,1410,3,2,6,11,Unfurnished,2.2,22.6627,88.3693,3,Yes,Apartment,Yes,89.79
+Behala,700061,1440,3,2,7,10,Furnished,2.7,22.4876,88.3031,2,Yes,Apartment,Yes,89.57
+Ballygunge,700019,1510,3,3,11,6,Furnished,1.0,22.5248,88.3661,2,Yes,Apartment,Yes,107.99
+Dumdum,700056,1215,2,2,5,12,Unfurnished,1.4,22.6316,88.425,1,Yes,Apartment,Yes,78.56
+Esplanade,700069,895,1,1,3,17,Unfurnished,0.6,22.5701,88.353,0,Yes,Apartment,Yes,66.46
+Garia,700084,1205,2,2,4,11,Unfurnished,1.9,22.4633,88.397,1,Yes,Apartment,Yes,75.69
+Howrah (Shalimar),711102,1280,3,2,6,10,Unfurnished,3.6,22.5836,88.3119,2,Yes,Apartment,Yes,77.82
+Jadavpur,700032,1165,2,2,4,13,Furnished,1.5,22.4961,88.3749,2,No,Apartment,Yes,74.9
+Lake Town,700089,995,2,1,4,17,Unfurnished,1.0,22.6101,88.4088,2,No,Apartment,Yes,64.75
+New Town,700156,1610,3,3,12,5,Furnished,2.2,22.5867,88.489,2,Yes,Apartment,Yes,111.86
+Rajarhat,700135,1360,3,2,8,10,Unfurnished,2.0,22.5988,88.4763,3,Yes,Independent House,Yes,90.38
+Park Street,700016,1530,3,3,10,5,Furnished,0.7,22.5566,88.3523,1,No,Apartment,Yes,120.22
+Salt Lake (Bidhannagar),700064,1655,3,3,12,4,Furnished,1.2,22.5903,88.42,2,Yes,Apartment,Yes,117.91
+Shyambazar,700004,1075,2,2,5,12,Unfurnished,0.6,22.6052,88.3747,2,No,Apartment,No,67.92
+Tollygunge,700033,1460,3,3,11,6,Furnished,1.0,22.5029,88.3523,3,Yes,Apartment,Yes,102.88
+Baranagar,700090,1150,2,2,4,13,Furnished,2.3,22.6633,88.37,1,Yes,Apartment,Yes,72.22
+Behala,700060,1435,3,2,7,11,Unfurnished,2.5,22.489,88.3057,3,Yes,Apartment,Yes,88.99
+Ballygunge,700020,1580,3,3,12,5,Furnished,1.1,22.5259,88.367,3,No,Apartment,Yes,113.13
+Dumdum,700055,1165,2,2,5,14,Unfurnished,1.3,22.6322,88.4245,2,Yes,Apartment,Yes,74.41
+Garia,700047,1120,2,2,3,16,Unfurnished,1.7,22.467,88.3932,1,Yes,Apartment,No,70.34
+Esplanade,700069,930,1,1,3,17,Unfurnished,0.6,22.5707,88.3532,0,No,Apartment,No,69.82
+Howrah (Shalimar),711114,1310,3,2,6,9,Unfurnished,3.9,22.5842,88.3142,2,Yes,Apartment,Yes,79.91
+Shyambazar,700004,1095,2,1,3,14,Unfurnished,0.7,22.6057,88.3738,0,Yes,Apartment,Yes,68.98
+Park Street,700016,1660,3,3,14,3,Furnished,0.9,22.5548,88.3532,2,Yes,Apartment,Yes,131.14
+New Town,700156,1350,3,2,7,9,Unfurnished,2.5,22.5859,88.4901,0,Yes,Apartment,Yes,90.18
+Salt Lake (Bidhannagar),700064,1670,3,3,12,4,Furnished,1.2,22.5904,88.4201,1,No,Apartment,Yes,119.2
+Rajarhat,700135,1520,3,3,9,7,Furnished,2.0,22.599,88.476,2,Yes,Apartment,Yes,102.75
+Tollygunge,700033,1450,3,3,11,6,Furnished,1.0,22.503,88.3524,3,Yes,Apartment,Yes,102.66
+Lake Town,700089,950,2,1,4,18,Unfurnished,1.0,22.6086,88.4079,0,Yes,Independent House,No,60.61
+Baranagar,700035,1420,3,2,6,11,Unfurnished,2.2,22.6628,88.3694,2,Yes,Apartment,Yes,90.6
+Behala,700063,1460,3,2,7,10,Furnished,2.7,22.4892,88.306,3,Yes,Apartment,Yes,91.1
+Ballygunge,700019,1520,3,3,11,6,Furnished,1.0,22.525,88.3662,2,Yes,Apartment,No,109.14
+Dumdum,700056,1220,2,2,5,12,Unfurnished,1.4,22.6317,88.4251,3,Yes,Apartment,Yes,79.06
+Esplanade,700069,900,1,1,3,17,Unfurnished,0.6,22.5708,88.3533,0,No,Apartment,Yes,67.14
+Garia,700084,1215,2,2,4,11,Unfurnished,1.9,22.4634,88.3971,1,Yes,Apartment,Yes,76.55
+Howrah (Shalimar),711105,1290,3,2,6,10,Unfurnished,3.8,22.585,88.315,3,Yes,Apartment,Yes,78.95
+Jadavpur,700032,1170,2,2,4,13,Furnished,1.5,22.4962,88.375,1,Yes,Apartment,Yes,75.31
+Lake Town,700089,1000,2,1,4,17,Unfurnished,1.0,22.6102,88.4089,1,Yes,Apartment,Yes,65.2
+New Town,700156,1620,3,3,12,5,Furnished,2.2,22.5868,88.4892,2,No,Apartment,Yes,112.96
+Rajarhat,700135,1370,3,2,8,10,Unfurnished,2.0,22.5989,88.4765,2,Yes,Apartment,Yes,91.52
+Park Street,700016,1540,3,3,10,5,Furnished,0.7,22.5567,88.3524,1,No,Apartment,Yes,121.55
+Salt Lake (Bidhannagar),700106,1660,3,3,12,3,Furnished,1.0,22.5979,88.4109,2,Yes,Apartment,Yes,118.66
+Shyambazar,700004,1080,2,2,5,12,Unfurnished,0.6,22.6053,88.3748,1,Yes,Independent House,Yes,68.47
+Tollygunge,700033,1470,3,3,11,6,Furnished,1.0,22.5031,88.3525,3,Yes,Apartment,Yes,104.37
+Baranagar,700090,1160,2,2,4,13,Furnished,2.3,22.6634,88.3701,1,Yes,Apartment,Yes,73.08
+Behala,700008,1445,3,2,7,11,Unfurnished,2.8,22.4877,88.3016,2,No,Apartment,Yes,89.71
+Ballygunge,700020,1590,3,3,12,5,Furnished,1.1,22.526,88.3671,2,Yes,Apartment,Yes,114.16
+Dumdum,700055,1170,2,2,5,14,Unfurnished,1.3,22.6323,88.4246,1,Yes,Apartment,Yes,74.88
+Garia,700047,1125,2,2,3,16,Unfurnished,1.7,22.4671,88.3933,2,Yes,Apartment,Yes,70.88
+Esplanade,700069,935,1,1,3,17,Unfurnished,0.6,22.5709,88.3534,0,No,Apartment,Yes,70.47
+Howrah (Shalimar),711103,1300,3,2,6,9,Unfurnished,3.7,22.5848,88.3131,2,Yes,Apartment,Yes,79.82
+Jadavpur,700032,1175,2,2,4,13,Furnished,1.5,22.4963,88.3751,2,Yes,Apartment,Yes,75.82
+Lake Town,700089,1005,2,1,4,17,Unfurnished,1.0,22.6103,88.409,1,No,Independent House,Yes,65.73
+New Town,700156,1630,3,3,12,5,Furnished,2.2,22.5869,88.4893,1,Yes,Apartment,Yes,114.1
+Rajarhat,700135,1380,3,2,8,10,Unfurnished,2.0,22.599,88.4766,2,Yes,Apartment,Yes,92.46
+Park Street,700016,1550,3,3,10,5,Furnished,0.7,22.5568,88.3525,3,Yes,Apartment,Yes,122.45
+Salt Lake (Bidhannagar),700064,1685,3,3,12,4,Furnished,1.2,22.5905,88.4202,1,Yes,Apartment,Yes,120.92
+Shyambazar,700004,1090,2,1,3,14,Unfurnished,0.7,22.6058,88.3739,1,Yes,Apartment,Yes,69.38
+Tollygunge,700033,1480,3,3,11,6,Furnished,1.0,22.5032,88.3526,3,Yes,Apartment,Yes,105.38
+Baranagar,700108,1400,3,2,7,10,Unfurnished,2.5,22.6693,88.3699,2,Yes,Apartment,Yes,89.88
+Behala,700061,1450,3,2,7,10,Furnished,2.7,22.4877,88.3032,3,Yes,Apartment,No,90.48
+Ballygunge,700019,1530,3,3,11,6,Furnished,1.0,22.5251,88.3663,1,Yes,Apartment,Yes,110.16
+Dumdum,700056,1230,2,2,5,12,Unfurnished,1.4,22.6318,88.4252,1,Yes,Apartment,No,79.95
+Esplanade,700069,910,1,1,3,17,Unfurnished,0.6,22.571,88.3535,0,No,Independent House,Yes,67.87
+Garia,700084,1220,2,2,4,11,Unfurnished,1.9,22.4635,88.3972,1,Yes,Apartment,Yes,77.1
+Howrah (Shalimar),711102,1315,3,2,6,10,Unfurnished,3.6,22.5837,88.312,3,Yes,Independent House,Yes,81.0
+Jadavpur,700032,1180,2,2,4,13,Furnished,1.5,22.4964,88.3752,2,No,Apartment,Yes,76.46
+Lake Town,700089,1010,2,1,4,17,Unfurnished,1.0,22.6104,88.4091,2,No,Apartment,Yes,66.26
+New Town,700156,1640,3,3,12,5,Furnished,2.2,22.587,88.4894,3,Yes,Apartment,Yes,115.13
+Rajarhat,700135,1390,3,2,8,10,Unfurnished,2.0,22.5991,88.4767,2,Yes,Independent House,Yes,93.41
+Park Street,700016,1560,3,3,10,5,Furnished,0.7,22.5569,88.3526,2,Yes,Apartment,Yes,123.55
+Salt Lake (Bidhannagar),700106,1675,3,3,12,3,Furnished,1.0,22.598,88.411,3,Yes,Apartment,No,120.17
+Shyambazar,700004,1095,2,2,5,12,Unfurnished,0.6,22.6054,88.3749,1,Yes,Apartment,Yes,69.96
+Tollygunge,700033,1490,3,3,11,6,Furnished,1.0,22.5033,88.3527,2,Yes,Apartment,Yes,106.15
+Baranagar,700035,1170,2,2,4,13,Furnished,2.3,22.6635,88.3702,2,Yes,Apartment,Yes,73.9
